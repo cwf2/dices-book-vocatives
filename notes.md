@@ -40,3 +40,51 @@ Book	| One vocative per speech	| More vocatives per speech	| Name-vocative	| Gen
 
 
 \* This means that there are 6 speeches with more than one vocative, the total number of vocatives being 12.
+
+## Odyssey
+
+Book	| One vocative per speech	| More vocatives per speech	| Name-vocative	| General vocative	| No vocative
+---	| ---	| ---	| ---	| --- | ---
+1	| 15	| 1 (3)	| 9	| 9	| 4
+2	| 16	| 2 (5)	| 11	| 10	| 2
+3	| 15	| 4 (8)	| 9	| 14	| 1
+4	| 27	| 0	| 15	| 12	| 10
+5	| 9	| 1 (2)	| 4	| 7	| 9
+6	| 6	| 4 (9)	| 2	| 13	| 1
+7	| 15	| 0	| 6	| 9	| 0
+8	| 22	| 1 (2)	| 12	| 12	| 1
+9	| 1	| 0	| 1	| 0	| 0
+10	| 0	| 0	| 0	| 0	| 0
+11	| 5	| 0	| 4	| 1	| 1
+12	| 0	| 0	| 0	| 0	| 0
+13	| 13	| 3 (6)	| 10	| 9	| 8
+14	| 9	| 4 (8)	| 2	| 15	| 3
+15	| 26	| 0	| 16	| 10	| 7
+16	| 21	| 1 (2)	| 8	| 15	| 11
+17	| 34	| 0	| 16	| 18	| 16
+18	| 26	| 0	| 8	| 18	| 5
+19	| 26	| 4 (9)	| 7	| 28	| 2
+20	| 25	| 0	| 9	| 16	| 2
+21	| 19	| 2 (4)	| 11	| 12	| 5
+22	| 24	| 2 (4)	| 13	| 15	| 11
+23	| 18	| 1 (2)	| 4	| 16	| 5
+24	| 21	| 2 (4)	| 15	| 10	| 7
+
+## Posthomerica
+
+Book	| One vocative per speech	| More vocatives per speech	| Name-vocative	| General vocative	| No vocative
+---	| ---	| ---	| ---	| --- | ---
+1	| 9	| 1 (2)	| 2	| 9	| 4
+2	| 13	| 0	| 6	| 7	| 3
+3	| 11	| 2 (5)	| 9	| 7	| 5
+4	| 8	| 0	| 2	| 6	| 4
+5	| 11	| 1 (2)	| 6	| 7	| 5
+6	| 11	| 0	| 6	| 5	| 2
+7	| 12	| 0	| 2	| 10	| 3
+8	| 4	| 1 (2)	| 2	| 4	| 2
+9	| 10	| 0	| 2	| 8	| 1
+10	| 6	| 1 (2)	| 1	| 7	| 2
+11	| 3	| 0	| 2	| 1	| 0
+12	| 11	| 1 (2)	| 6	| 7	| 6
+13	| 8	| 0	| 4	| 4	| 5
+14	| 8	| 1 (2)	| 4	| 6	| 3
