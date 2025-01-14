@@ -1,0 +1,1315 @@
+Work	speech_id	book	line	spkr	addr	string	lemma	is_voc_CLTK	eval_CLTK	what it should be	token_spacy	lemma_spacy	pos_spacy	case_spacy	eval_spacy
+Posthomerica	4048	1	100	Andromache	Andromache	ἆ	ἆ	FALSE	true negative		ἆ	ἆ	INTJ		true negative
+Posthomerica	4048	1	100	Andromache	Andromache	δειλή	δειλή	TRUE	true positive		δειλή	δειλός	ADJ	Voc	true positive
+Posthomerica	4048	1	100	Andromache	Andromache	τί	τίς	FALSE	true negative		τί	τίς	PRON	Acc	true negative
+Posthomerica	4048	1	100	Andromache	Andromache	νυ	νυ	FALSE	true negative		νυ	νῦν	ADV		true negative
+Posthomerica	4048	1	100	Andromache	Andromache	τόσσα	τόσσος	FALSE	true negative		τόσσα	τόσος	ADJ	Acc	true negative
+Posthomerica	4048	1	100	Andromache	Andromache	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4048	1	100	Andromache	Andromache	φρονέουσʼ	φρονέω	FALSE	true negative		φρονέουσʼ	φρονέουσʼ	PUNCT		true negative
+Posthomerica	4048	1	100	Andromache	Andromache	ἀγορεύεις	ἀγορεύω	FALSE	true negative		ἀγορεύεις	ἀγορεύω	VERB		true negative
+Posthomerica	4048	1	101	Andromache	Andromache	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4048	1	101	Andromache	Andromache	γάρ	γάρ	FALSE	true negative		γάρ	γάρ	PART		true negative
+Posthomerica	4048	1	101	Andromache	Andromache	τοι	σύ	FALSE	true negative		τοι	σύ	PRON	Dat	true negative
+Posthomerica	4048	1	101	Andromache	Andromache	σθένος	σθένος	FALSE	true negative		σθένος	σθένος	NOUN	Nom	true negative
+Posthomerica	4048	1	101	Andromache	Andromache	ἐστὶν	εἰμί	FALSE	true negative		ἐστὶν	εἰμί	AUX		true negative
+Posthomerica	4048	1	101	Andromache	Andromache	ἀταρβέϊ	ἀταρβεύς	FALSE	true negative		ἀταρβέϊ	ἀταρβέϊ	VERB		true negative
+Posthomerica	4048	1	101	Andromache	Andromache	Πηλείωνι	Πηλείων	FALSE	true negative		Πηλείωνι	Πηλείων	PROPN	Dat	true negative
+Posthomerica	4048	1	102	Andromache	Andromache	μάρνασθʼ	μαρνάνω	FALSE	true negative		μάρνασθʼ	μάρνασθʼ	CCONJ		true negative
+Posthomerica	4048	1	102	Andromache	Andromache	ἀλλὰ	ἀλλά	FALSE	true negative		ἀλλὰ	ἀλλά	CCONJ		true negative
+Posthomerica	4048	1	102	Andromache	Andromache	σοὶ	σύ	FALSE	true negative		σοὶ	σύ	PRON	Dat	true negative
+Posthomerica	4048	1	102	Andromache	Andromache	ὦκα	ἥκω	FALSE	true negative		ὦκα	ὦκα	ADV		true negative
+Posthomerica	4048	1	102	Andromache	Andromache	φόνον	φόνος	FALSE	true negative		φόνον	φόνος	NOUN	Acc	true negative
+Posthomerica	4048	1	102	Andromache	Andromache	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4048	1	102	Andromache	Andromache	λοιγὸν	λοιγός	FALSE	true negative		λοιγὸν	λοιγός	NOUN	Acc	true negative
+Posthomerica	4048	1	102	Andromache	Andromache	ἐφήσει	φημί	FALSE	true negative		ἐφήσει	ἐφέω	VERB		true negative
+Posthomerica	4048	1	103	Andromache	Andromache	λευγαλέη	λευγαλής	FALSE	true negative		λευγαλέη	λευγαλέη	ADJ	Nom	true negative
+Posthomerica	4048	1	103	Andromache	Andromache	τί	τίς	FALSE	true negative		τί	τίς	PRON	Acc	true negative
+Posthomerica	4048	1	103	Andromache	Andromache	μέμηνας	μαίνομαι	FALSE	true negative		μέμηνας	μέμηνας	VERB	Nom	true negative
+Posthomerica	4048	1	103	Andromache	Andromache	ἀνὰ	ἀνά	FALSE	true negative		ἀνὰ	ἀνά	ADP		true negative
+Posthomerica	4048	1	103	Andromache	Andromache	φρένας	φρήν	FALSE	true negative		φρένας	φρήν	NOUN	Acc	true negative
+Posthomerica	4048	1	103	Andromache	Andromache	ἦ	ἦ	FALSE	true negative		ἦ	ἤ	CCONJ		true negative
+Posthomerica	4048	1	103	Andromache	Andromache	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4048	1	103	Andromache	Andromache	τοι	σύ	FALSE	true negative		τοι	σύ	PRON	Dat	true negative
+Posthomerica	4048	1	103	Andromache	Andromache	ἄγχι	ἄγχι	FALSE	true negative		ἄγχι	ἄγχι	ADP		true negative
+Posthomerica	4048	1	104	Andromache	Andromache	ἕστηκευν	ἵστημι	FALSE	true negative		ἕστηκευν	ἕστηκευν	VERB		true negative
+Posthomerica	4048	1	104	Andromache	Andromache	Θανάτοιο	Θάνατος	FALSE	true negative		Θανάτοιο	θάνατος	NOUN	Gen	true negative
+Posthomerica	4048	1	104	Andromache	Andromache	τέλος	τέλος	FALSE	true negative		τέλος	τέλος	NOUN	Nom	true negative
+Posthomerica	4048	1	104	Andromache	Andromache	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4048	1	104	Andromache	Andromache	δαίμονος	δαίμων	FALSE	true negative		δαίμονος	δαίμων	NOUN	Gen	true negative
+Posthomerica	4048	1	104	Andromache	Andromache	Αἶσα	Αἶσα	FALSE	true negative		Αἶσα	αἶσα	NOUN	Nom	true negative
+Posthomerica	4048	1	105	Andromache	Andromache	Ἕκτωρ	Ἕκτωρ	FALSE	true negative		Ἕκτωρ	ἕκτωρ	NOUN	Nom	true negative
+Posthomerica	4048	1	105	Andromache	Andromache	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4048	1	105	Andromache	Andromache	σέο	σύ	FALSE	true negative		σέο	σύ	PRON	Gen	true negative
+Posthomerica	4048	1	105	Andromache	Andromache	πολλὸν	πολύς	FALSE	true negative		πολλὸν	πολύς	ADJ	Acc	true negative
+Posthomerica	4048	1	105	Andromache	Andromache	ὑπέρτερος	ὑπέρτερος	FALSE	true negative		ὑπέρτερος	ὑπέρτερος	ADJ	Nom	true negative
+Posthomerica	4048	1	105	Andromache	Andromache	ἔπλετο	πλέω	FALSE	true negative		ἔπλετο	πέλω	VERB		true negative
+Posthomerica	4048	1	105	Andromache	Andromache	δουρί	δουρί	FALSE	true negative		δουρί	δόρυ	NOUN	Dat	true negative
+Posthomerica	4048	1	106	Andromache	Andromache	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4048	1	106	Andromache	Andromache	ἐδάμη	δέμω	FALSE	true negative		ἐδάμη	δαμάζω	VERB		true negative
+Posthomerica	4048	1	106	Andromache	Andromache	κρατερός	κρατερός	FALSE	true negative		κρατερός	κρατερός	ADJ	Nom	true negative
+Posthomerica	4048	1	106	Andromache	Andromache	περ	πέρ	FALSE	true negative		περ	πέρ	PART		true negative
+Posthomerica	4048	1	106	Andromache	Andromache	ἐών	εἰμί	FALSE	true negative		ἐών	εἰμί	AUX	Nom	true negative
+Posthomerica	4048	1	106	Andromache	Andromache	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4048	1	106	Andromache	Andromache	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4048	1	106	Andromache	Andromache	ἤκαχε	ἀκάχω	FALSE	true negative		ἤκαχε	ἀχεύω	VERB		true negative
+Posthomerica	4048	1	106	Andromache	Andromache	Τρῶας	Τρα	FALSE	true negative		Τρῶας	τρώς	NOUN	Acc	true negative
+Posthomerica	4048	1	107	Andromache	Andromache	οἵ	ὁ	FALSE	true negative		οἵ	ὅς	PRON	Nom	true negative
+Posthomerica	4048	1	107	Andromache	Andromache	ἑ	οὗ	FALSE	true negative		ἑ	ἕ	PRON	Acc	true negative
+Posthomerica	4048	1	107	Andromache	Andromache	θεὸν	θεός	FALSE	true negative		θεὸν	θεός	VERB		true negative
+Posthomerica	4048	1	107	Andromache	Andromache	ὣς	ὡς	FALSE	true negative		ὣς	ὡς	ADV		true negative
+Posthomerica	4048	1	107	Andromache	Andromache	πάντες	πᾶς	FALSE	true negative		πάντες	πᾶς	ADJ	Nom	true negative
+Posthomerica	4048	1	107	Andromache	Andromache	ἀνὰ	ἀνά	FALSE	true negative		ἀνὰ	ἀνά	ADP		true negative
+Posthomerica	4048	1	107	Andromache	Andromache	πτόλιν	πτόλις	FALSE	true negative		πτόλιν	πόλις	NOUN	Acc	true negative
+Posthomerica	4048	1	107	Andromache	Andromache	εἰσορόωντο	εἰσοράω	FALSE	true negative		εἰσορόωντο	εἰσοράω	VERB		true negative
+Posthomerica	4048	1	108	Andromache	Andromache	καί	καί	FALSE	true negative		καί	καί	CCONJ		true negative
+Posthomerica	4048	1	108	Andromache	Andromache	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4048	1	108	Andromache	Andromache	ἔην	εἰμί	FALSE	true negative		ἔην	εἰμί	AUX		true negative
+Posthomerica	4048	1	108	Andromache	Andromache	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Nom	true negative
+Posthomerica	4048	1	108	Andromache	Andromache	κῦδος	κῦδος	FALSE	true negative		κῦδος	κῦδος	NOUN	Nom	true negative
+Posthomerica	4048	1	108	Andromache	Andromache	ἰδʼ	ὁράω	FALSE	true negative		ἰδʼ	ἰδʼ	PUNCT		true negative
+Posthomerica	4048	1	108	Andromache	Andromache	ἀντιθέοις	ἀντίθειος	FALSE	true negative		ἀντιθέοις	ἀντιθέος	ADJ	Dat	true negative
+Posthomerica	4048	1	108	Andromache	Andromache	τοκέεσσι	τοκείς	FALSE	true negative		τοκέεσσι	τοκέος	NOUN	Dat	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	ζωὸς	ζωός	FALSE	true negative		ζωὸς	ζωός	ADJ	Nom	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	ἐών	εἰμί	FALSE	true negative		ἐών	εἰμί	AUX	Nom	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4048	1	109	Andromache	Andromache	εἴ	εἰ	FALSE	true negative		εἴ	εἰ	SCONJ		true negative
+Posthomerica	4048	1	109	Andromache	Andromache	με	ἐγώ	FALSE	true negative		με	ἐγώ	PRON	Acc	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	χυτὴ	χυτή	FALSE	true negative		χυτὴ	χυτός	ADJ	Nom	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	κατὰ	κατά	FALSE	true negative		κατὰ	κατά	ADP		true negative
+Posthomerica	4048	1	109	Andromache	Andromache	γαῖα	γαῖον	FALSE	true negative		γαῖα	γαῖα	NOUN	Nom	true negative
+Posthomerica	4048	1	109	Andromache	Andromache	κεκεύθει	κεκεύω	FALSE	true negative		κεκεύθει	κεύθω	VERB		true negative
+Posthomerica	4048	1	110	Andromache	Andromache	πρίν	πρίν	FALSE	true negative		πρίν	πρίν	SCONJ		true negative
+Posthomerica	4048	1	110	Andromache	Andromache	ἑ	οὗ	FALSE	true negative		ἑ	ἕ	PRON	Acc	true negative
+Posthomerica	4048	1	110	Andromache	Andromache	διʼ	διʼ	FALSE	true negative		διʼ	διʼ	PUNCT		true negative
+Posthomerica	4048	1	110	Andromache	Andromache	ἀνθερεῶνος	ἀνθερεών	FALSE	true negative		ἀνθερεῶνος	ἀνθερεών	NOUN	Gen	true negative
+Posthomerica	4048	1	110	Andromache	Andromache	ὑπʼ	ὑπʼ	FALSE	true negative		ὑπʼ	ὑπʼ	PUNCT		true negative
+Posthomerica	4048	1	110	Andromache	Andromache	ἔγχεϊ	ἔγχος	FALSE	true negative		ἔγχεϊ	ἔγχος	NOUN	Dat	true negative
+Posthomerica	4048	1	110	Andromache	Andromache	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4048	1	110	Andromache	Andromache	ὀλέσσαι	ὀλέσσαι	FALSE	true negative		ὀλέσσαι	ὄλλυμι	VERB		true negative
+Posthomerica	4048	1	111	Andromache	Andromache	νῦν	νῦν	FALSE	true negative		νῦν	νῦν	ADV		true negative
+Posthomerica	4048	1	111	Andromache	Andromache	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4048	1	111	Andromache	Andromache	ἄρʼ	ἀρή	FALSE	true negative		ἄρʼ	ἄρʼ	ADJ	Acc	true negative
+Posthomerica	4048	1	111	Andromache	Andromache	ἀάσπετον	ἀάσπετος	FALSE	true negative		ἀάσπετον	ἀάσπετος	ADJ	Acc	true negative
+Posthomerica	4048	1	111	Andromache	Andromache	ἄλγος	ἄλγος	FALSE	true negative		ἄλγος	ἄλγος	NOUN	Acc	true negative
+Posthomerica	4048	1	111	Andromache	Andromache	ὀϊζυρῶς	ὀϊζυρῶς	FALSE	true negative		ὀϊζυρῶς	ὀϊζυρῶς	ADV		true negative
+Posthomerica	4048	1	111	Andromache	Andromache	ἐσάθρησα	σαθρέω	FALSE	true negative		ἐσάθρησα	ἐσάθρησα	VERB		true negative
+Posthomerica	4048	1	112	Andromache	Andromache	κεῖνον	ἐκεῖνος	FALSE	true negative		κεῖνον	ἐκεῖνος	ADJ	Acc	true negative
+Posthomerica	4048	1	112	Andromache	Andromache	ὅτʼ	ὅτʼ	FALSE	true negative		ὅτʼ	ὅτʼ	PUNCT		true negative
+Posthomerica	4048	1	112	Andromache	Andromache	ἀμφὶ	ἀμφί	FALSE	true negative		ἀμφὶ	ἀμφί	ADP		true negative
+Posthomerica	4048	1	112	Andromache	Andromache	πόληα	πόλη	FALSE	true negative		πόληα	πόλις	NOUN	Acc	true negative
+Posthomerica	4048	1	112	Andromache	Andromache	ποδώκεες	ποδώκης	FALSE	true negative		ποδώκεες	ποδώκης	ADJ	Nom	true negative
+Posthomerica	4048	1	112	Andromache	Andromache	εἴρυον	εὑρύσσω	FALSE	true negative		εἴρυον	εἴρυον	VERB		true negative
+Posthomerica	4048	1	112	Andromache	Andromache	ἵπποι	ἵππος	FALSE	true negative		ἵπποι	ἵππος	NOUN	Nom	true negative
+Posthomerica	4048	1	113	Andromache	Andromache	ἀργαλέως	ἀργαλέως	FALSE	true negative		ἀργαλέως	ἀργαλέως	ADV		true negative
+Posthomerica	4048	1	113	Andromache	Andromache	Ἀχιλῆος	Ἀχιλῆος	FALSE	true negative		Ἀχιλῆος	ἀχιλλεύς	NOUN	Gen	true negative
+Posthomerica	4048	1	113	Andromache	Andromache	ὅ	ὅς	FALSE	true negative		ὅ	ὁ	ADJ	Nom	true negative
+Posthomerica	4048	1	113	Andromache	Andromache	μʼ	μʼ	FALSE	true negative		μʼ	μʼ	PUNCT		true negative
+Posthomerica	4048	1	113	Andromache	Andromache	ἀνέρος	ἀνήρ	FALSE	true negative		ἀνέρος	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4048	1	113	Andromache	Andromache	εὖνιν	εἶνι	FALSE	true negative		εὖνιν	εὖνις	NOUN	Acc	true negative
+Posthomerica	4048	1	113	Andromache	Andromache	ἔθηκε	τίθημι	FALSE	true negative		ἔθηκε	τίθημι	VERB		true negative
+Posthomerica	4048	1	114	Andromache	Andromache	κουριδίου	κουρίδιος	FALSE	true negative		κουριδίου	κουριδῖος	ADJ	Gen	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	τό	ὁ	FALSE	true negative		τό	ὁ	PRON	Nom	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	αἰνπὸν	αἰνπός	FALSE	true negative		αἰνπὸν	αἰνπὸς	VERB	Nom	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	ἄχος	ἄχος	FALSE	true negative		ἄχος	ἄχος	NOUN	Nom	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	πέλει	πέλω	FALSE	true negative		πέλει	πέλω	VERB		true negative
+Posthomerica	4048	1	114	Andromache	Andromache	ἤματα	ἦμαρ	FALSE	true negative		ἤματα	ἦμαρ	NOUN	Acc	true negative
+Posthomerica	4048	1	114	Andromache	Andromache	πάντα	πᾶς	FALSE	true negative		πάντα	πᾶς	DET	Acc	true negative
+Posthomerica	4049	1	186	Priam	Zeus	κλῦθι	κλίνω	FALSE	true negative		κλῦθι	κλύω	VERB		true negative
+Posthomerica	4049	1	186	Priam	Zeus	πάτερ	πατήρ	TRUE	true positive		πάτερ	πάτηρ	NOUN	Voc	true positive
+Posthomerica	4049	1	186	Priam	Zeus	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4049	1	186	Priam	Zeus	λαὸν	λαός	FALSE	true negative		λαὸν	λαός	NOUN	Acc	true negative
+Posthomerica	4049	1	186	Priam	Zeus	Ἀχαιικὸν	Ἀχαιικός	FALSE	true negative		Ἀχαιικὸν	Ἀχαιικός	ADJ	Acc	true negative
+Posthomerica	4049	1	186	Priam	Zeus	ἤματι	ἦμαρ	FALSE	true negative		ἤματι	ἦμαρ	NOUN	Dat	true negative
+Posthomerica	4049	1	186	Priam	Zeus	τῷδε	ὅδε	FALSE	true negative		τῷδε	ὅδε	PRON	Dat	true negative
+Posthomerica	4049	1	187	Priam	Zeus	δὸς	δίδωμι	FALSE	true negative		δὸς	δίδωμι	VERB		true negative
+Posthomerica	4049	1	187	Priam	Zeus	πεσέειν	πίπτω	FALSE	true negative		πεσέειν	πίπτω	VERB		true negative
+Posthomerica	4049	1	187	Priam	Zeus	ὑπὸ	ὑπό	FALSE	true negative		ὑπὸ	ὑπό	ADP		true negative
+Posthomerica	4049	1	187	Priam	Zeus	χερσὶν	χείρ	FALSE	true negative		χερσὶν	χείρ	NOUN	Dat	true negative
+Posthomerica	4049	1	187	Priam	Zeus	Ἀρηιάδος	Ἀρηιάς	FALSE	true negative		Ἀρηιάδος	Ἀρηιάς	ADJ	Gen	true negative
+Posthomerica	4049	1	187	Priam	Zeus	βασιλείης	βασίλεια	FALSE	true negative		βασιλείης	βασίλεια	NOUN	Gen	true negative
+Posthomerica	4049	1	188	Priam	Zeus	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4049	1	188	Priam	Zeus	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4049	1	188	Priam	Zeus	αὖ	αὗ	FALSE	true negative		αὖ	αὖ	ADV		true negative
+Posthomerica	4049	1	188	Priam	Zeus	μιν	μιν	FALSE	true negative		μιν	μιν	PRON	Acc	true negative
+Posthomerica	4049	1	188	Priam	Zeus	παλίνορσον	παλίνορσος	FALSE	true negative		παλίνορσον	παλίνορσιος	VERB		true negative
+Posthomerica	4049	1	188	Priam	Zeus	ἐμὸν	ἐμός	FALSE	true negative		ἐμὸν	ἐμός	ADJ	Acc	true negative
+Posthomerica	4049	1	188	Priam	Zeus	ποτὶ	πρός	FALSE	true negative		ποτὶ	πρός	ADP		true negative
+Posthomerica	4049	1	188	Priam	Zeus	δῶμα	δῶμα	FALSE	true negative		δῶμα	δῶμα	NOUN	Acc	true negative
+Posthomerica	4049	1	188	Priam	Zeus	σάωσον	σαάζω	FALSE	true negative		σάωσον	σώζω	VERB		true negative
+Posthomerica	4049	1	189	Priam	Zeus	ἁζόμενος	ἅζω	FALSE	true negative		ἁζόμενος	ἅζομαι	VERB	Nom	true negative
+Posthomerica	4049	1	189	Priam	Zeus	τεὸν	τεός	FALSE	true negative		τεὸν	τεός	ADJ	Acc	true negative
+Posthomerica	4049	1	189	Priam	Zeus	υἷα	υἷος	FALSE	true negative		υἷα	υἱός	NOUN	Acc	true negative
+Posthomerica	4049	1	189	Priam	Zeus	πελώριον	πελώριον	FALSE	true negative		πελώριον	πελώριος	ADJ	Acc	true negative
+Posthomerica	4049	1	189	Priam	Zeus	ὄβριμον	ὄβριμος	FALSE	true negative		ὄβριμον	ὄβριμος	ADJ	Acc	true negative
+Posthomerica	4049	1	189	Priam	Zeus	Ἄρην	Ἄρης	FALSE	true negative		Ἄρην	ἄρης	NOUN	Acc	true negative
+Posthomerica	4049	1	190	Priam	Zeus	αὐτήν	αὐτός	FALSE	true negative		αὐτήν	αὐτός	PRON	Acc	true negative
+Posthomerica	4049	1	190	Priam	Zeus	θʼ	τίς	FALSE	true negative		θʼ	θʼ	PUNCT		true negative
+Posthomerica	4049	1	190	Priam	Zeus	οὕνεκʼ	ὅσνιξ	FALSE	true negative		οὕνεκʼ	οὕνεκʼ	VERB		true negative
+Posthomerica	4049	1	190	Priam	Zeus	ἔοικεν	ἔοικα	FALSE	true negative		ἔοικεν	ἔοικα	VERB		true negative
+Posthomerica	4049	1	190	Priam	Zeus	ἐπουρανίῃσι	ἐπουράνιος	FALSE	true negative		ἐπουρανίῃσι	ἐπουρανία	ADJ	Dat	true negative
+Posthomerica	4049	1	190	Priam	Zeus	θεῇσιν	θεάς	FALSE	true negative		θεῇσιν	θεά	NOUN	Dat	true negative
+Posthomerica	4049	1	191	Priam	Zeus	ἐκπάγλως	ἐκπάγλως	FALSE	true negative		ἐκπάγλως	ἔκπαγλος	ADV		true negative
+Posthomerica	4049	1	191	Priam	Zeus	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4049	1	191	Priam	Zeus	σεῖο	σύ	FALSE	true negative		σεῖο	σύ	PRON	Gen	true negative
+Posthomerica	4049	1	191	Priam	Zeus	θεοῦ	θεός	FALSE	true negative		θεοῦ	θεός	NOUN	Gen	true negative
+Posthomerica	4049	1	191	Priam	Zeus	γένος	γένος	FALSE	true negative		γένος	γένος	NOUN	Nom	true negative
+Posthomerica	4049	1	191	Priam	Zeus	ἐστὶ	εἰμί	FALSE	true negative		ἐστὶ	εἰμί	AUX		true negative
+Posthomerica	4049	1	191	Priam	Zeus	γενέθλης	γενέθλη	FALSE	true negative		γενέθλης	γενέθλη	NOUN	Gen	true negative
+Posthomerica	4049	1	192	Priam	Zeus	αἴδεσσαι	αἴδεσσα	FALSE	true negative		αἴδεσσαι	αἰδέομαι	VERB		true negative
+Posthomerica	4049	1	192	Priam	Zeus	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4049	1	192	Priam	Zeus	ἐμὸν	ἐμός	FALSE	true negative		ἐμὸν	ἐμός	ADJ	Acc	true negative
+Posthomerica	4049	1	192	Priam	Zeus	ἦτορ	ἀτόρ	FALSE	true negative		ἦτορ	ἦτορ	NOUN	Acc	true negative
+Posthomerica	4049	1	192	Priam	Zeus	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	SCONJ		true negative
+Posthomerica	4049	1	192	Priam	Zeus	κακὰ	κακός	FALSE	true negative		κακὰ	κακός	ADJ	Acc	true negative
+Posthomerica	4049	1	192	Priam	Zeus	πολλὰ	πολύς	FALSE	true negative		πολλὰ	πολύς	ADJ	Acc	true negative
+Posthomerica	4049	1	192	Priam	Zeus	τέτληκα	τλάω	FALSE	true negative		τέτληκα	τέτληκα	VERB		true negative
+Posthomerica	4049	1	193	Priam	Zeus	παίδων	παῖς	FALSE	true negative		παίδων	παῖς	NOUN	Gen	true negative
+Posthomerica	4049	1	193	Priam	Zeus	ὀλλυμένων	ὀλλύω	FALSE	true negative		ὀλλυμένων	ὄλλυμι	VERB	Gen	true negative
+Posthomerica	4049	1	193	Priam	Zeus	οὕς	ὅς	FALSE	true negative		οὕς	ὅς	PRON	Acc	true negative
+Posthomerica	4049	1	193	Priam	Zeus	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4049	1	193	Priam	Zeus	περὶ	περί	FALSE	true negative		περὶ	περί	ADP		true negative
+Posthomerica	4049	1	193	Priam	Zeus	Κῆρες	Κήρ	FALSE	true negative		Κῆρες	κήρ	NOUN	Nom	true negative
+Posthomerica	4049	1	193	Priam	Zeus	ἔμαρψαν	μαρβάνω	FALSE	true negative		ἔμαρψαν	μάρπτω	VERB		true negative
+Posthomerica	4049	1	194	Priam	Zeus	Ἀργείων	Ἀργεῖος	FALSE	true negative		Ἀργείων	ἀργεῖος	ADJ	Gen	true negative
+Posthomerica	4049	1	194	Priam	Zeus	παλάμῃσι	πάλαμα	FALSE	true negative		παλάμῃσι	παλάμη	NOUN	Dat	true negative
+Posthomerica	4049	1	194	Priam	Zeus	κατὰ	κατά	FALSE	true negative		κατὰ	κατά	ADP		true negative
+Posthomerica	4049	1	194	Priam	Zeus	στόμα	στόμα	FALSE	true negative		στόμα	στόμα	NOUN	Acc	true negative
+Posthomerica	4049	1	194	Priam	Zeus	δηιοτῆτος	δηιοτήτης	FALSE	true negative		δηιοτῆτος	δηιοτής	NOUN	Gen	true negative
+Posthomerica	4049	1	195	Priam	Zeus	αἴδεο	αἰδέω	FALSE	true negative		αἴδεο	αἰδέομαι	VERB		true negative
+Posthomerica	4049	1	195	Priam	Zeus	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4049	1	195	Priam	Zeus	ἕως	ἕως	FALSE	true negative		ἕως	ἕως	SCONJ		true negative
+Posthomerica	4049	1	195	Priam	Zeus	ἔτι	ἔτι	FALSE	true negative		ἔτι	ἔτι	ADV		true negative
+Posthomerica	4049	1	195	Priam	Zeus	παῦροι	παύρος	FALSE	true negative		παῦροι	παῦρος	ADJ	Nom	true negative
+Posthomerica	4049	1	195	Priam	Zeus	ἀφʼ	ἀφή	FALSE	true negative		ἀφʼ	ἀφʼ	PUNCT		true negative
+Posthomerica	4049	1	195	Priam	Zeus	αἵματός	αἷμα	FALSE	true negative		αἵματός	αἷμα	NOUN	Gen	true negative
+Posthomerica	4049	1	195	Priam	Zeus	εἰμεν	εἰμί	FALSE	true negative		εἰμεν	εἰμί	AUX		true negative
+Posthomerica	4049	1	195	Priam	Zeus	ἀγαυοῦ	ἀγαυός	FALSE	true negative		ἀγαυοῦ	ἀγαυός	ADJ	Gen	true negative
+Posthomerica	4049	1	196	Priam	Zeus	Δαρδάνου	Δαρδάνης	FALSE	true negative		Δαρδάνου	δάρδανος	PROPN	Gen	true negative
+Posthomerica	4049	1	196	Priam	Zeus	ἕως	ἕως	FALSE	true negative		ἕως	ἕως	SCONJ		true negative
+Posthomerica	4049	1	196	Priam	Zeus	ἀδάϊκτος	ἀδάϊκτος	FALSE	true negative		ἀδάϊκτος	ἀδάϊκτος	ADJ	Nom	true negative
+Posthomerica	4049	1	196	Priam	Zeus	ἔτι	ἔτι	FALSE	true negative		ἔτι	ἔτι	ADV		true negative
+Posthomerica	4049	1	196	Priam	Zeus	πτόλις	πτόλις	FALSE	true negative		πτόλις	πτόλις	NOUN	Nom	true negative
+Posthomerica	4049	1	196	Priam	Zeus	ὄφρα	ὄφρος	FALSE	true negative		ὄφρα	ὄφρα	SCONJ		true negative
+Posthomerica	4049	1	196	Priam	Zeus	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4049	1	196	Priam	Zeus	ἡμεῖς	ἡμεῖς	FALSE	true negative		ἡμεῖς	ἡμεῖς	PRON	Nom	true negative
+Posthomerica	4049	1	197	Priam	Zeus	ἐκ	ἐκ	FALSE	true negative		ἐκ	ἐκ	ADP		true negative
+Posthomerica	4049	1	197	Priam	Zeus	φόνου	φόνος	FALSE	true negative		φόνου	φόνος	NOUN	Gen	true negative
+Posthomerica	4049	1	197	Priam	Zeus	ἀργαλέοιο	ἀργάλεος	FALSE	true negative		ἀργαλέοιο	ἀργαλέος	ADJ	Gen	true negative
+Posthomerica	4049	1	197	Priam	Zeus	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4049	1	197	Priam	Zeus	Ἄρεος	Ἄρης	FALSE	true negative		Ἄρεος	ἄρης	PROPN	Gen	true negative
+Posthomerica	4049	1	197	Priam	Zeus	ἀμπνεύσωμεν	ἀμπνεύω	FALSE	true negative		ἀμπνεύσωμεν	ἀμπνεύω	VERB		true negative
+Posthomerica	4050	1	212	Greeks	Greeks	τίς	τίς	FALSE	true negative		τίς	τις	PRON	Nom	true negative
+Posthomerica	4050	1	212	Greeks	Greeks	δὴ	δή	FALSE	true negative		δὴ	δή	PART		true negative
+Posthomerica	4050	1	212	Greeks	Greeks	Τρῶας	Τρῶας	FALSE	true negative		Τρῶας	τρώς	NOUN	Acc	true negative
+Posthomerica	4050	1	212	Greeks	Greeks	ἔγειρε	ἐγείρω	FALSE	true negative		ἔγειρε	ἐγείρω	VERB		true negative
+Posthomerica	4050	1	212	Greeks	Greeks	μεθʼ	μεθʼ	FALSE	true negative		μεθʼ	μεθʼ	PUNCT		true negative
+Posthomerica	4050	1	212	Greeks	Greeks	Ἕκτορα	Ἕκτορα	FALSE	true negative		Ἕκτορα	ἕκτωρ	NOUN	Acc	true negative
+Posthomerica	4050	1	212	Greeks	Greeks	δῃωθέντα	δημέομαι	FALSE	true negative		δῃωθέντα	δῃόω	VERB	Acc	true negative
+Posthomerica	4050	1	213	Greeks	Greeks	οὓς	ὅς	FALSE	true negative		οὓς	ὅς	PRON	Acc	true negative
+Posthomerica	4050	1	213	Greeks	Greeks	φάμεν	φημί	FALSE	true negative		φάμεν	φημί	VERB		true negative
+Posthomerica	4050	1	213	Greeks	Greeks	οὐκέτι	οὐκέτι	FALSE	true negative		οὐκέτι	οὐκέτι	ADV		true negative
+Posthomerica	4050	1	213	Greeks	Greeks	νῶιν	νῷος	FALSE	true negative		νῶιν	νῶιν	PRON	Dat	true negative
+Posthomerica	4050	1	213	Greeks	Greeks	ὑπαντιάσειν	ὑπαντιάζω	FALSE	true negative		ὑπαντιάσειν	ὑπαντιάσειν	VERB		true negative
+Posthomerica	4050	1	213	Greeks	Greeks	μεμαῶτας	μεμαῶτης	FALSE	true negative		μεμαῶτας	μέμαα	VERB	Acc	true negative
+Posthomerica	4050	1	214	Greeks	Greeks	νῦν	νῦν	FALSE	true negative		νῦν	νῦν	ADV		true negative
+Posthomerica	4050	1	214	Greeks	Greeks	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4050	1	214	Greeks	Greeks	ἄφαρ	ἄφαρ	FALSE	true negative		ἄφαρ	ἄφαρ	ADV		true negative
+Posthomerica	4050	1	214	Greeks	Greeks	ἀΐσσουσι	ἀΐσσω	FALSE	true negative		ἀΐσσουσι	ἀίσσω	VERB		true negative
+Posthomerica	4050	1	214	Greeks	Greeks	λιλαιόμενοι	λιλαίνομαι	FALSE	true negative		λιλαιόμενοι	λιλαίομαι	VERB	Nom	true negative
+Posthomerica	4050	1	214	Greeks	Greeks	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4050	1	214	Greeks	Greeks	χάρμης	χάρμη	FALSE	true negative		χάρμης	χάρμη	NOUN	Gen	true negative
+Posthomerica	4050	1	215	Greeks	Greeks	καί	καί	FALSE	true negative		καί	καί	CCONJ		true negative
+Posthomerica	4050	1	215	Greeks	Greeks	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4050	1	215	Greeks	Greeks	τις	τὶς	FALSE	true negative		τις	τὶς	ADJ	Nom	true negative
+Posthomerica	4050	1	215	Greeks	Greeks	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4050	1	215	Greeks	Greeks	μέσσοισιν	μέσσος	FALSE	true negative		μέσσοισιν	μέσος	ADJ	Dat	true negative
+Posthomerica	4050	1	215	Greeks	Greeks	ἐποτρύνει	ἐποτρύνω	FALSE	true negative		ἐποτρύνει	ἐποτρύνω	VERB		true negative
+Posthomerica	4050	1	215	Greeks	Greeks	πονέεσθαι	πονέω	FALSE	true negative		πονέεσθαι	πονέω	VERB		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	φαίης	φημί	FALSE	true negative		φαίης	φημί	VERB		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	κεν	ἄν	FALSE	true negative		κεν	ἄν	PART		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	θεὸν	θεός	FALSE	true negative		θεὸν	θεός	NOUN	Acc	true negative
+Posthomerica	4050	1	216	Greeks	Greeks	ἔμμεν	μμέω	FALSE	true negative		ἔμμεν	εἰμί	AUX		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	ADV		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Nom	true negative
+Posthomerica	4050	1	216	Greeks	Greeks	μήδεται	μηδέω	FALSE	true negative		μήδεται	μήδομαι	VERB		true negative
+Posthomerica	4050	1	216	Greeks	Greeks	ἔργον	ἔργον	FALSE	true negative		ἔργον	ἔργον	NOUN	Nom	true negative
+Posthomerica	4050	1	217	Greeks	Greeks	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	ADV		true negative
+Posthomerica	4050	1	217	Greeks	Greeks	ἄγε	ἄγω	FALSE	true negative		ἄγε	ἄγω	VERB		true negative
+Posthomerica	4050	1	217	Greeks	Greeks	θάρσος	θάρσος	FALSE	true negative		θάρσος	θάρσος	NOUN	Acc	true negative
+Posthomerica	4050	1	217	Greeks	Greeks	ἄατον	ἄατος	FALSE	true negative		ἄατον	ἄατος	ADJ	Acc	true negative
+Posthomerica	4050	1	217	Greeks	Greeks	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4050	1	217	Greeks	Greeks	στέρνοισι	στέρνον	FALSE	true negative		στέρνοισι	στέρνον	NOUN	Dat	true negative
+Posthomerica	4050	1	217	Greeks	Greeks	λαβόντες	λαμβάνω	FALSE	true negative		λαβόντες	λαμβάνω	VERB	Nom	true negative
+Posthomerica	4050	1	218	Greeks	Greeks	ἀλκῆς	ἀλκή	FALSE	true negative		ἀλκῆς	ἀλκή	NOUN	Gen	true negative
+Posthomerica	4050	1	218	Greeks	Greeks	μνησώμεσθα	μιμνῄσκω	FALSE	true negative		μνησώμεσθα	μνησώμεσθα	VERB		true negative
+Posthomerica	4050	1	218	Greeks	Greeks	δαΐφρονος	δαΐφρονος	FALSE	true negative		δαΐφρονος	δαίφρων	ADJ	Gen	true negative
+Posthomerica	4050	1	218	Greeks	Greeks	οὐδὲ	οὐδέ	FALSE	true negative		οὐδὲ	οὐδέ	ADV		true negative
+Posthomerica	4050	1	218	Greeks	Greeks	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4050	1	218	Greeks	Greeks	ἡμεῖς	ἡμεῖς	FALSE	true negative		ἡμεῖς	ἡμεῖς	PRON	Nom	true negative
+Posthomerica	4050	1	219	Greeks	Greeks	νόσφι	νόσφις	FALSE	true negative		νόσφι	νόσφι	ADP		true negative
+Posthomerica	4050	1	219	Greeks	Greeks	θεῶν	θεός	FALSE	true negative		θεῶν	θεός	NOUN	Gen	true negative
+Posthomerica	4050	1	219	Greeks	Greeks	Τρώεσσι	Τρῴς	FALSE	true negative		Τρώεσσι	τρώς	NOUN	Dat	true negative
+Posthomerica	4050	1	219	Greeks	Greeks	μαχησόμεθʼ	μάχομαι	FALSE	true negative		μαχησόμεθʼ	μαχησόμεθʼ	PUNCT		true negative
+Posthomerica	4050	1	219	Greeks	Greeks	ἤματι	ἦμαρ	FALSE	true negative		ἤματι	ἦμαρ	NOUN	Dat	true negative
+Posthomerica	4050	1	219	Greeks	Greeks	τῷδε	ὅδε	FALSE	true negative		τῷδε	ὅδε	PRON	Dat	true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	κύνες	κύων	TRUE	true positive		κύνες	κύων	NOUN	Voc	true positive
+Posthomerica	4051	1	326	Penthesilea	Greeks	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	Πριάμοιο	Πριάμοιον	TRUE	false positive	gen	Πριάμοιο	πρίαμος	NOUN	Gen	true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	κακὴν	κακός	FALSE	true negative		κακὴν	κακός	ADJ	Acc	true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	ἀποτίσετε	ἀποτίνω	FALSE	true negative		ἀποτίσετε	ἀποτίνω	VERB		true negative
+Posthomerica	4051	1	326	Penthesilea	Greeks	λώβην	λώβη	FALSE	true negative		λώβην	λώβη	NOUN	Acc	true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	σήμερον	σήμερον	FALSE	true negative		σήμερον	σήμερον	ADV		true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	γάρ	γάρ	FALSE	true negative		γάρ	γάρ	PART		true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	πώ	πώ	FALSE	true negative		πώ	πω	PART		true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	τις	τὶς	FALSE	true negative		τις	τις	PRON	Nom	true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	ἐμὸν	ἐμός	FALSE	true negative		ἐμὸν	ἐμός	ADJ	Acc	true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	σθένος	σθένος	FALSE	true negative		σθένος	σθένος	NOUN	Acc	true negative
+Posthomerica	4051	1	327	Penthesilea	Greeks	ἐξυπαλύξας	ἐξυπαλύσσω	FALSE	true negative		ἐξυπαλύξας	ἐξυπαλύγνυμι	VERB	Nom	true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	χάρμα	χάρμα	FALSE	true negative		χάρμα	χάρμα	NOUN	Acc	true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	φίλοις	φίλος	FALSE	true negative		φίλοις	φίλος	ADJ	Dat	true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	τοκέεσσι	τοκείς	FALSE	true negative		τοκέεσσι	τοκέεσσι	NOUN	Dat	true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	υἱάσιν	υἱάσις	FALSE	true negative		υἱάσιν	υἱός	NOUN	Dat	true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	ἠδʼ	ἠδʼ	FALSE	true negative		ἠδʼ	ἠδʼ	PUNCT		true negative
+Posthomerica	4051	1	328	Penthesilea	Greeks	ἀλόχοισιν	ἄλοχος	FALSE	true negative		ἀλόχοισιν	ἀλόχοισιν	NOUN	Dat	true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	ἔσσεται	σσέω	FALSE	true negative		ἔσσεται	εἰμί	AUX		true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	οἰωνοῖς	οἰωνός	FALSE	true negative		οἰωνοῖς	οἰωνός	NOUN	Dat	true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	βόσις	βόσις	FALSE	true negative		βόσις	βόσις	NOUN	Nom	true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	θηρσὶ	θηρή	FALSE	true negative		θηρσὶ	θήρ	NOUN	Dat	true negative
+Posthomerica	4051	1	329	Penthesilea	Greeks	θανόντες	θανός	FALSE	true negative		θανόντες	θνήσκω	VERB	Nom	true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	κείσεσθʼ	κεῖμαι	FALSE	true negative		κείσεσθʼ	κείσεσθʼ	PUNCT		true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	οὐδέ	οὐδέ	FALSE	true negative		οὐδέ	οὐδέ	CCONJ		true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	τι	τὶς	FALSE	true negative		τι	τις	PRON	Acc	true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	τύμβος	τύμβος	FALSE	true negative		τύμβος	τύμβος	NOUN	Nom	true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	ἐφʼ	φημί	FALSE	true negative		ἐφʼ	ἐφʼ	PUNCT		true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	ὑμέας	σύ	FALSE	true negative		ὑμέας	σύ	PRON	Acc	true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	ἵξεται	ἵκω	FALSE	true negative		ἵξεται	ἱκνέομαι	VERB		true negative
+Posthomerica	4051	1	330	Penthesilea	Greeks	αἴης	αἶος	FALSE	true negative		αἴης	αἶα	PROPN	Gen	true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	πῇ	πᾶ	FALSE	true negative		πῇ	πῆ	PRON		true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	νῦν	νῦν	FALSE	true negative		νῦν	νῦν	ADV		true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	Τυδείδαο	Τυδείδης	FALSE	true negative		Τυδείδαο	Τυδείδαο	NOUN	Gen	true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	βίη	βία	FALSE	true negative		βίη	βία	NOUN	Nom	true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	πῇ	πᾶ	FALSE	true negative		πῇ	πῆ	PRON		true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4051	1	331	Penthesilea	Greeks	Αἰακίδαο	Αἰακίδαι	FALSE	true negative		Αἰακίδαο	αἰακίδης	NOUN	Gen	true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	ποῦ	ποῦ	FALSE	true negative		ποῦ	ποῦ	ADV		true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	Αἴαντος	Αἴας	FALSE	true negative		Αἴαντος	αἴας	NOUN	Gen	true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	τοὺς	ὁ	FALSE	true negative		τοὺς	ὁ	PRON	Acc	true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	PART		true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	φάτις	φάτις	FALSE	true negative		φάτις	φάτις	NOUN	Nom	true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	ἔμμεν	μμέω	FALSE	true negative		ἔμμεν	εἰμί	AUX		true negative
+Posthomerica	4051	1	332	Penthesilea	Greeks	ἀρίστους	ἀγαθός	FALSE	true negative		ἀρίστους	ἀγαθός	ADJ	Acc	true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	ἐμοὶ	ἐγώ	FALSE	true negative		ἐμοὶ	ἐγώ	PRON	Dat	true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	τλήσονται	τλάω	FALSE	true negative		τλήσονται	τλάω	VERB		true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	ἐναντία	ἐναντίος	FALSE	true negative		ἐναντία	ἐναντίος	ADJ	Acc	true negative
+Posthomerica	4051	1	333	Penthesilea	Greeks	δηριάασθαι	δηριάω	FALSE	true negative		δηριάασθαι	δηριάομαι	VERB		true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	μή	μή	FALSE	true negative		μή	μή	CCONJ		true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	σφιν	σφεῖς	FALSE	true negative		σφιν	σφεῖς	PRON	Dat	true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	ἀπὸ	ἀπό	FALSE	true negative		ἀπὸ	ἀπό	ADP		true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	μελέων	μελαάω	FALSE	true negative		μελέων	μέλος	NOUN	Gen	true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	ψυχὰς	ψυχή	FALSE	true negative		ψυχὰς	ψυχή	NOUN	Acc	true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	φθιμένοισι	φθίω	FALSE	true negative		φθιμένοισι	φθιμένοισι	VERB	Dat	true negative
+Posthomerica	4051	1	334	Penthesilea	Greeks	πελάσσω	πελάζω	FALSE	true negative		πελάσσω	πελάω	VERB		true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	φίλοι	φίλος	TRUE	true positive		φίλοι	φίλος	ADJ	Voc	true positive
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	ἀναφανδὸν	ἀναφανδός	FALSE	true negative		ἀναφανδὸν	ἀναφανδόν	ADV		true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	ἀπʼ	ἀπʼ	FALSE	true negative		ἀπʼ	ἀπʼ	PUNCT		true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	οὐρανοῦ	οὐρανός	FALSE	true negative		οὐρανοῦ	οὐρανός	NOUN	Gen	true negative
+Posthomerica	4052	1	358	Trojan (Quintus)	Trojans	εἰλήλουθε	εἰληλόω	FALSE	true negative		εἰλήλουθε	εἰλήλουθε	VERB		true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	σήμερον	σήμερον	FALSE	true negative		σήμερον	σήμερον	ADV		true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	ἀθανάτων	ἀθάνατος	FALSE	true negative		ἀθανάτων	ἀθάνατος	ADJ	Gen	true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	τις	τὶς	FALSE	true negative		τις	τις	PRON	Nom	true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	ἵνʼ	ἵνʼ	FALSE	true negative		ἵνʼ	ἵνʼ	PUNCT		true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	Ἀργείοισι	Ἀργεῖος	FALSE	true negative		Ἀργείοισι	ἀργεῖος	ADJ	Dat	true negative
+Posthomerica	4052	1	359	Trojan (Quintus)	Trojans	μάχηται	μάχομαι	FALSE	true negative		μάχηται	μάχομαι	VERB		true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	ἡμῖν	ἡμεῖς	FALSE	true negative		ἡμῖν	ἡμεῖς	PRON	Dat	true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	ἦρα	ἦρα	FALSE	true negative		ἦρα	ἤρα	NOUN	Acc	true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	φέρουσα	φέρω	FALSE	true negative		φέρουσα	φέρω	VERB	Nom	true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	Διὸς	Ζεύς	FALSE	true negative		Διὸς	ζεύς	NOUN	Gen	true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	κρατερόφρονι	κρατερόφρων	FALSE	true negative		κρατερόφρονι	κρατερόφρων	ADJ	Dat	true negative
+Posthomerica	4052	1	360	Trojan (Quintus)	Trojans	βουλῇ	βουλή	FALSE	true negative		βουλῇ	βουλή	NOUN	Dat	true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	ὃς	ὅς	FALSE	true negative		ὃς	ὅς	PRON	Nom	true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	τάχα	τάχα	FALSE	true negative		τάχα	τάχα	ADV		true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	που	πού	FALSE	true negative		που	πού	ADV		true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	μέμνηται	μιμνῄσκω	FALSE	true negative		μέμνηται	μιμνήσκω	VERB		true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	ἐϋσθενέος	ἐϋσθενής	FALSE	true negative		ἐϋσθενέος	ἐϋσθενής	ADJ	Gen	true negative
+Posthomerica	4052	1	361	Trojan (Quintus)	Trojans	Πριάμοιο	Πριάμοιον	FALSE	true negative		Πριάμοιο	πρίαμος	NOUN	Gen	true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	ὅς	ὅς	FALSE	true negative		ὅς	ὅς	PRON	Nom	true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	ῥά	ῥά	FALSE	true negative		ῥά	ἄρα	PART		true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	οἱ	οὗ	FALSE	true negative		οἱ	οὗ	PRON	Dat	true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	εὔχεται	εὔχομαι	FALSE	true negative		εὔχεται	εὔχομαι	VERB		true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	εἶναι	εἰμί	FALSE	true negative		εἶναι	εἰμί	AUX		true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	ἀφʼ	ἀφή	FALSE	true negative		ἀφʼ	ἀφʼ	PUNCT		true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	αἵματος	αἷμα	FALSE	true negative		αἵματος	αἷμα	NOUN	Gen	true negative
+Posthomerica	4052	1	362	Trojan (Quintus)	Trojans	ἀθανάτοιο	ἀθανάτος	FALSE	true negative		ἀθανάτοιο	ἀθάνατος	ADJ	Gen	true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	PART		true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	τήνδε	ὅδε	FALSE	true negative		τήνδε	ὅδε	DET	Acc	true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	γυναῖκά	γυνή	FALSE	true negative		γυναῖκά	γυνή	NOUN	Acc	true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	γʼ	γι	FALSE	true negative		γʼ	γʼ	PUNCT		true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	ὀΐομαι	ὀομάω	FALSE	true negative		ὀΐομαι	οἴομαι	VERB		true negative
+Posthomerica	4052	1	363	Trojan (Quintus)	Trojans	εἰσοράασθαι	εἰσράλλω	FALSE	true negative		εἰσοράασθαι	εἰσοράω	VERB		true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	αὕτως	αὔτως	FALSE	true negative		αὕτως	αὔτως	ADV		true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	θαρσαλέην	θαρσαλή	FALSE	true negative		θαρσαλέην	θαρσαλέα	NOUN	Acc	true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	τε	τε	FALSE	true negative		τε	τε	CCONJ		true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	ἀγλαὰ	ἀγλαός	FALSE	true negative		ἀγλαὰ	ἀγλαός	ADJ	Acc	true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	τεύχἐ	τεῦχος	FALSE	true negative		τεύχἐ	τεῦχος	NOUN	Acc	true negative
+Posthomerica	4052	1	364	Trojan (Quintus)	Trojans	ἔχουσαν	ἔχω	FALSE	true negative		ἔχουσαν	ἔχω	VERB	Acc	true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	ἄρʼ	ἀρή	FALSE	true negative		ἄρʼ	ἄρʼ	PROPN	Acc	true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	Ἀθηναίην	Ἀθήνη	FALSE	true negative		Ἀθηναίην	ἀθήνη	PROPN	Acc	true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	ἢ	ἤ	FALSE	true negative		ἢ	ἤ	CCONJ		true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	καρτερόθυμον	καρτερόθυμος	FALSE	true negative		καρτερόθυμον	καρτερόθυμος	ADJ	Acc	true negative
+Posthomerica	4052	1	365	Trojan (Quintus)	Trojans	Ἐνυὼ	Ἐνυώ	FALSE	true negative		Ἐνυὼ	Ἐνυώ	PROPN	Dat	true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	ἢ	ἤ	FALSE	true negative		ἢ	ἤ	CCONJ		true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	Ἔριδʼ	ἔρις	FALSE	true negative		Ἔριδʼ	Ἔριδʼ	PUNCT		true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	ἢ	ἤ	FALSE	true negative		ἢ	ἤ	CCONJ		true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	κλειτὴν	κλειτής	FALSE	true negative		κλειτὴν	κλειτός	ADJ	Acc	true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	Λητωίδα	Λητωίς	FALSE	true negative		Λητωίδα	Λητωίς	NOUN	Acc	true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	καί	καί	FALSE	true negative		καί	καί	CCONJ		true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	μιν	μιν	FALSE	true negative		μιν	μιν	PRON	Acc	true negative
+Posthomerica	4052	1	366	Trojan (Quintus)	Trojans	ὀΐω	ὀιω	FALSE	true negative		ὀΐω	οἴομαι	VERB		true negative
+Posthomerica	4052	1	367	Trojan (Quintus)	Trojans	σήμερον	σήμερον	FALSE	true negative		σήμερον	σήμερον	ADV		true negative
+Posthomerica	4052	1	367	Trojan (Quintus)	Trojans	Ἀργείοισι	Ἀργεῖος	FALSE	true negative		Ἀργείοισι	ἀργεῖος	ADJ	Dat	true negative
+Posthomerica	4052	1	367	Trojan (Quintus)	Trojans	φόνον	φόνος	FALSE	true negative		φόνον	φόνος	NOUN	Acc	true negative
+Posthomerica	4052	1	367	Trojan (Quintus)	Trojans	στονόεντα	στονόω	FALSE	true negative		στονόεντα	στονόεις	ADJ	Acc	true negative
+Posthomerica	4052	1	367	Trojan (Quintus)	Trojans	βαλέσθαι	βάλλω	FALSE	true negative		βαλέσθαι	βατίλημι	VERB		true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	νῆάς	ναῦς	FALSE	true negative		νῆάς	ναῦς	NOUN	Acc	true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	ἐμπρήσειν	ἐμπράω	FALSE	true negative		ἐμπρήσειν	ἐμπρέω	VERB		true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	ὀλοῷ	ὀλοός	FALSE	true negative		ὀλοῷ	ὀλοός	ADJ	Dat	true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	πυρί	πῦρ	FALSE	true negative		πυρί	πῦρ	NOUN	Dat	true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	τῇσι	ὁ	FALSE	true negative		τῇσι	ὁ	DET	Dat	true negative
+Posthomerica	4052	1	368	Trojan (Quintus)	Trojans	πάροιθεν	πάροιθα	FALSE	true negative		πάροιθεν	πάροιθε	ADP		true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	ἤλυθον	μυθύθω	FALSE	true negative		ἤλυθον	ἔρχομαι	VERB		true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	ἐς	εἰς	FALSE	true negative		ἐς	εἰς	ADP		true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	Τροίην	Τροία	FALSE	true negative		Τροίην	τροία	PROPN	Acc	true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	νῶιν	νῷος	FALSE	true negative		νῶιν	νῶιν	PRON	Dat	true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	κακὰ	κακός	FALSE	true negative		κακὰ	κακός	ADJ	Acc	true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	πολλὰ	πολύς	FALSE	true negative		πολλὰ	πολύς	ADJ	Acc	true negative
+Posthomerica	4052	1	369	Trojan (Quintus)	Trojans	φέροντες	φέρω	FALSE	true negative		φέροντες	φέρω	VERB	Nom	true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	ἤλυθον	μυθύθω	FALSE	true negative		ἤλυθον	ἔρχομαι	VERB		true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	ἄσχετον	ἄσχετος	FALSE	true negative		ἄσχετον	ἄσχετος	ADJ	Acc	true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	ἄμμιν	ἄμμις	FALSE	true negative		ἄμμιν	ἐγώ	PRON	Dat	true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	ὑπʼ	ὑπʼ	FALSE	true negative		ὑπʼ	ὑπʼ	PUNCT		true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	Ἄρεϊ	Ἄρης	FALSE	true negative		Ἄρεϊ	Ἄρες	NOUN	Dat	true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	πῆμα	πῆμα	FALSE	true negative		πῆμα	πῆμα	NOUN	Acc	true negative
+Posthomerica	4052	1	370	Trojan (Quintus)	Trojans	φέροντες	φέρω	FALSE	true negative		φέροντες	φέρω	VERB	Nom	true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	μὰν	μέν	FALSE	true negative		μὰν	μήν	PART		true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	παλίνορσοι	παλίνορσος	FALSE	true negative		παλίνορσοι	παλίνορσος	ADJ	Nom	true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	ἐς	εἰς	FALSE	true negative		ἐς	εἰς	ADP		true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	Ἑλλάδα	Ἑλλάς	FALSE	true negative		Ἑλλάδα	ἑλλάς	PROPN	Acc	true negative
+Posthomerica	4052	1	371	Trojan (Quintus)	Trojans	νοστήσαντες	νοστέω	FALSE	true negative		νοστήσαντες	νοστέω	VERB	Nom	true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	πάτρην	πάτρα	FALSE	true negative		πάτρην	πάτρα	NOUN	Acc	true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	εὐφρανέουσιν	εὐφρανέω	FALSE	true negative		εὐφρανέουσιν	εὐφρανέω	VERB		true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	SCONJ		true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	θεὸς	θεός	FALSE	true negative		θεὸς	θεός	NOUN	Nom	true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	ἄμμιν	ἄμμις	FALSE	true negative		ἄμμιν	ἐγώ	PRON	Dat	true negative
+Posthomerica	4052	1	372	Trojan (Quintus)	Trojans	ἀρήγει	ἀράγω	FALSE	true negative		ἀρήγει	ἀρήγω	VERB		true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	φίλαι	φίλη	TRUE	true positive		φίλαι	φίλος	ADJ	Voc	true positive
+Posthomerica	4053	1	409	Hippodamea	Trojan women	ἄλκιμον	ἄλκιμος	FALSE	true negative		ἄλκιμον	ἄλκιμος	ADJ	Acc	true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	ἦτορ	ἀτόρ	FALSE	true negative		ἦτορ	ἦτορ	NOUN	Acc	true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	στέρνοισι	στέρνον	FALSE	true negative		στέρνοισι	στέρνον	NOUN	Dat	true negative
+Posthomerica	4053	1	409	Hippodamea	Trojan women	λαβοῦσαι	λαμβάνω	FALSE	true negative		λαβοῦσαι	λαμβάνω	VERB	Nom	true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	ἀνδράσιν	ἀνήρ	FALSE	true negative		ἀνδράσιν	ἀνήρ	NOUN	Dat	true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	ἡμετέροισιν	ἡμέτερος	FALSE	true negative		ἡμετέροισιν	ἡμετέροισιν	ADJ	Dat	true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	ὁμοίιον	ὅμοιος	FALSE	true negative		ὁμοίιον	ὁμοίιιος	ADJ	Acc	true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	οἳ	ὁ	FALSE	true negative		οἳ	ὅς	PRON	Nom	true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	περὶ	περί	FALSE	true negative		περὶ	περί	ADP		true negative
+Posthomerica	4053	1	410	Hippodamea	Trojan women	πάτρης	πάτρα	FALSE	true negative		πάτρης	πάτρα	NOUN	Gen	true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	δυσμενέσιν	δυσμενής	FALSE	true negative		δυσμενέσιν	δυσμενής	ADJ	Dat	true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	μάρνανται	μαίνομαι	FALSE	true negative		μάρνανται	μάρναμαι	VERB		true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	ὑπὲρ	ὑπέρ	FALSE	true negative		ὑπὲρ	ὑπέρ	ADP		true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	τεκέων	τέκος	FALSE	true negative		τεκέων	τέκας	NOUN	Gen	true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	τε	τε	FALSE	true negative		τε	τε	CCONJ		true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	411	Hippodamea	Trojan women	ἡμέων	ἡμεῖς	FALSE	true negative		ἡμέων	ἡμεῖς	PRON	Gen	true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	οὔποτʼ	οὔποτʼ	FALSE	true negative		οὔποτʼ	οὔποτʼ	PUNCT		true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	ἀναπνείοντες	ἀναπνέω	FALSE	true negative		ἀναπνείοντες	ἀναπνείοντες	VERB	Nom	true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	ὀϊζύος	ὀϊζύος	FALSE	true negative		ὀϊζύος	ὀιζύς	NOUN	Gen	true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	ἀλλὰ	ἀλλά	FALSE	true negative		ἀλλὰ	ἀλλά	CCONJ		true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4053	1	412	Hippodamea	Trojan women	αὐταὶ	οὗτος	FALSE	true negative		αὐταὶ	αὐτός	ADJ	Nom	true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	παρθέμεναι	παρτίθημι	FALSE	true negative		παρθέμεναι	τίπαρθημι	VERB		true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	φρεσὶ	φρής	FALSE	true negative		φρεσὶ	φρήν	NOUN	Dat	true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	ἴσης	ἴσος	FALSE	true negative		ἴσης	ἴσος	ADJ	Gen	true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	μνησώμεθα	μιμνῄσκω	FALSE	true negative		μνησώμεθα	μιμνήσκω	VERB		true negative
+Posthomerica	4053	1	413	Hippodamea	Trojan women	χάρμης	χάρμη	FALSE	true negative		χάρμης	χάρμη	NOUN	Gen	true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	ἀπόπροθέν	ἀπόπροθέ	FALSE	true negative		ἀπόπροθέν	ἀπόπροθέν	ADV		true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	εἰμεν	εἰμί	FALSE	true negative		εἰμεν	εἰμί	AUX		true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	ἐϋσθενέων	ἐϋσθενής	FALSE	true negative		ἐϋσθενέων	ἐϋσθενής	ADJ	Gen	true negative
+Posthomerica	4053	1	414	Hippodamea	Trojan women	αἰζηῶν	αἰζή	FALSE	true negative		αἰζηῶν	αἰζηός	ADJ	Gen	true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	οἷον	οἷος	FALSE	true negative		οἷον	οἷος	PRON	Nom	true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	κείνοισι	ἐκεῖνος	FALSE	true negative		κείνοισι	κεῖνος	ADJ	Dat	true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	πέλει	πέλω	FALSE	true negative		πέλει	πέλω	VERB		true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	μένος	μένος	FALSE	true negative		μένος	μένος	NOUN	Nom	true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	ἔστι	εἰμί	FALSE	true negative		ἔστι	εἰμί	AUX		true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	415	Hippodamea	Trojan women	ἡμῖν	ἡμεῖς	FALSE	true negative		ἡμῖν	ἡμεῖς	PRON	Dat	true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	ἶσοι	ἶσος	FALSE	true negative		ἶσοι	ἴσος	ADJ	Nom	true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	ὀφθαλμοὶ	ὀφθαλμός	FALSE	true negative		ὀφθαλμοὶ	ὀφθαλμός	NOUN	Nom	true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	γούνατα	γόνυ	FALSE	true negative		γούνατα	γόνυ	NOUN	Nom	true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	πάντα	πᾶς	FALSE	true negative		πάντα	πᾶς	DET	Nom	true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	416	Hippodamea	Trojan women	ὁμοῖα	ὅμοιος	FALSE	true negative		ὁμοῖα	ὅμοιος	ADJ	Nom	true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	ξυνὸν	ξυνός	FALSE	true negative		ξυνὸν	ξυνός	ADJ	Nom	true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	αὖ	αὗ	FALSE	true negative		αὖ	αὖ	ADV		true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	πάντεσσι	πᾶς	FALSE	true negative		πάντεσσι	πᾶς	ADJ	Dat	true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	φάος	φάος	FALSE	true negative		φάος	φάος	NOUN	Nom	true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	νήχυτος	νήχυτος	FALSE	true negative		νήχυτος	νήχυτος	ADJ	Nom	true negative
+Posthomerica	4053	1	417	Hippodamea	Trojan women	ἀήρ	ἀήρ	FALSE	true negative		ἀήρ	ἀήρ	NOUN	Nom	true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	φορβὴ	φορβή	FALSE	true negative		φορβὴ	φορβὴ	NOUN	Nom	true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	οὐχ	οὐ	FALSE	true negative		οὐχ	οὐ	ADV		true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	ἑτέρη	ἕτερος	FALSE	true negative		ἑτέρη	ἕτερος	ADJ	Nom	true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	δί	δί	FALSE	true negative		δί	δί	ADP		true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	ἐπʼ	ἐπʼ	FALSE	true negative		ἐπʼ	ἐπʼ	PUNCT		true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	ἀνδράσι	ἀνήρ	FALSE	true negative		ἀνδράσι	ἀνήρ	NOUN	Dat	true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	λώιον	λωΐων	FALSE	true negative		λώιον	λωΐων	ADJ	Nom	true negative
+Posthomerica	4053	1	418	Hippodamea	Trojan women	ἄλλο	ἄλλος	FALSE	true negative		ἄλλο	ἄλλος	ADJ	Acc	true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	θῆκε	θῆκος	FALSE	true negative		θῆκε	τίθημι	VERB		true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	θεός	θεός	FALSE	true negative		θεός	θεός	NOUN	Nom	true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	τῷ	ὁ	FALSE	true negative		τῷ	ὁ	DET	Dat	true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	μή	μή	FALSE	true negative		μή	μή	ADV		true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	τι	τὶς	FALSE	true negative		τι	τίς	PRON	Acc	true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	φεβώμεθα	φωμί	FALSE	true negative		φεβώμεθα	φέβομαι	VERB		true negative
+Posthomerica	4053	1	419	Hippodamea	Trojan women	δηιοτῆτα	δηιοτής	FALSE	true negative		δηιοτῆτα	δηιοτῆτα	NOUN	Acc	true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	ἢ	ἤ	FALSE	true negative		ἢ	ἤ	CCONJ		true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	οὐχ	οὐ	FALSE	true negative		οὐχ	οὐ	ADV		true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	ὁράατε	ὁράω	FALSE	true negative		ὁράατε	ὁράω	VERB		true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	γυναῖκα	γυνή	FALSE	true negative		γυναῖκα	γυνή	NOUN	Acc	true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	μέγʼ	μέγας	FALSE	true negative		μέγʼ	μέγʼ	PUNCT		true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	αἰζηῶν	αἰζή	FALSE	true negative		αἰζηῶν	αἰζηός	ADJ	Gen	true negative
+Posthomerica	4053	1	420	Hippodamea	Trojan women	προφέρουσαν	προφέρω	FALSE	true negative		προφέρουσαν	προφέρω	VERB	Acc	true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	ἀγχεμάχων	ἀγχεμάξ	FALSE	true negative		ἀγχεμάχων	ἀγχόμαχες	ADJ	Gen	true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	τῆς	ὁ	FALSE	true negative		τῆς	ὁ	PRON	Gen	true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	οὔτι	οὔτι	FALSE	true negative		οὔτι	οὔτι	ADV		true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	πέλει	πέλω	FALSE	true negative		πέλει	πέλω	VERB		true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	σχεδὸν	σχεδόν	FALSE	true negative		σχεδὸν	σχεδόν	ADV		true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	οὔτε	οὔτε	FALSE	true negative		οὔτε	οὔτε	CCONJ		true negative
+Posthomerica	4053	1	421	Hippodamea	Trojan women	γενέθλη	γενέθλη	FALSE	true negative		γενέθλη	γενέθλη	NOUN	Nom	true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	οὔτʼ	οὔτʼ	FALSE	true negative		οὔτʼ	οὔτʼ	PUNCT		true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	ἄρʼ	ἀρή	FALSE	true negative		ἄρʼ	ἄρʼ	PUNCT		true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	ἑὸν	εός	FALSE	true negative		ἑὸν	ἑός	AUX	Nom	true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	πτολίεθρον	πτολίεθρον	FALSE	true negative		πτολίεθρον	πτολίεθρον	NOUN	Nom	true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	ὑπὲρ	ὑπέρ	FALSE	true negative		ὑπὲρ	ὑπέρ	ADP		true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	ξείνοιο	ξένονος	FALSE	true negative		ξείνοιο	ξείνοιο	NOUN	Gen	true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	422	Hippodamea	Trojan women	ἄνακτος	ἄνακτος	FALSE	true negative		ἄνακτος	ἄναξ	NOUN	Gen	true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	μάρναται	μάρναξ	FALSE	true negative		μάρναται	μάρναται	VERB		true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	ἐκ	ἐκ	FALSE	true negative		ἐκ	ἐκ	ADP		true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	θυμοῖο	θυμός	FALSE	true negative		θυμοῖο	θυμός	NOUN	Gen	true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	οὐκ	οὐ	FALSE	true negative		οὐκ	οὐ	ADV		true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	ἐμπάζεται	ἐμπάζομαι	FALSE	true negative		ἐμπάζεται	ἐμπάζω	VERB		true negative
+Posthomerica	4053	1	423	Hippodamea	Trojan women	ἀνδρῶν	ἀνήρ	FALSE	true negative		ἀνδρῶν	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	ἐνθεμένη	ἐνθέω	FALSE	true negative		ἐνθεμένη	ἐντίθημι	VERB	Nom	true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	φρεσὶ	φρής	FALSE	true negative		φρεσὶ	φρήν	NOUN	Dat	true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	θάρσος	θάρσος	FALSE	true negative		θάρσος	θάρσος	NOUN	Acc	true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	ἀταρτηρόν	ἀταρτηρός	FALSE	true negative		ἀταρτηρόν	ἀταρτηρος	ADJ	Nom	true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	τε	τε	FALSE	true negative		τε	τε	CCONJ		true negative
+Posthomerica	4053	1	424	Hippodamea	Trojan women	νόημα	νόημα	FALSE	true negative		νόημα	νόημα	NOUN	Nom	true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	ἡμῖν	ἡμεῖς	FALSE	true negative		ἡμῖν	ἡμεῖς	PRON	Dat	true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	ἄλλοθεν	ἄλλοθεν	FALSE	true negative		ἄλλοθεν	ἄλλοθεν	ADV		true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	ἄλλα	ἄλλος	FALSE	true negative		ἄλλα	ἀλλά	CCONJ		true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	παραὶ	παρός	FALSE	true negative		παραὶ	παρά	ADP		true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	ποσὶν	πούς	FALSE	true negative		ποσὶν	πούς	NOUN	Dat	true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	ἄλγεα	ἄλγος	FALSE	true negative		ἄλγεα	ἄλγος	NOUN	Nom	true negative
+Posthomerica	4053	1	425	Hippodamea	Trojan women	κεῖται	κεῖμαι	FALSE	true negative		κεῖται	κεῖμαι	VERB		true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	τῇς	ὁ	FALSE	true negative		τῇς	ὁ	PRON	Gen	true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	μὲν	μέν	FALSE	true negative		μὲν	μέν	ADV		true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	φίλα	φίλος	FALSE	true negative		φίλα	φίλος	ADJ	Nom	true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	τέκνα	τέκνον	FALSE	true negative		τέκνα	τέκνον	NOUN	Nom	true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	ἀνέρες	ἀνήρ	FALSE	true negative		ἀνέρες	ἀνήρ	NOUN	Nom	true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	ἀμφὶ	ἀμφί	FALSE	true negative		ἀμφὶ	ἀμφί	ADP		true negative
+Posthomerica	4053	1	426	Hippodamea	Trojan women	πόληι	πόλη	FALSE	true negative		πόληι	πόληι	NOUN	Dat	true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	ὤλλυνθʼ	ἅλλομαι	FALSE	true negative		ὤλλυνθʼ	ὤλλυνθʼ	PUNCT		true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	αἱ	ὁ	FALSE	true negative		αἱ	ὁ	PRON	Nom	true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	τοκῆας	τοκή	FALSE	true negative		τοκῆας	τοκεύς	NOUN	Acc	true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	ὀδυρόμεθʼ	ὀδυρόω	FALSE	true negative		ὀδυρόμεθʼ	ὀδυρόμεθʼ	PUNCT		true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	οὐκέτʼ	οὐκέτʼ	FALSE	true negative		οὐκέτʼ	οὐκέτʼ	AUX	Acc	true negative
+Posthomerica	4053	1	427	Hippodamea	Trojan women	ἐόντας	εἰμί	FALSE	true negative		ἐόντας	εἰμί	AUX	Acc	true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	ἄλλαι	ἄλλος	FALSE	true negative		ἄλλαι	ἄλλος	ADJ	Nom	true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	αὖτʼ	αὖς	FALSE	true negative		αὖτʼ	αὖτʼ	VERB		true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	ἀκάχηνται	ἀκάχω	FALSE	true negative		ἀκάχηνται	ἀκάχημι	VERB		true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	ἀδελφειῶν	ἀδελφόες	FALSE	true negative		ἀδελφειῶν	ἀδελφειῶν	NOUN	Gen	true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	ἐπʼ	ἐπʼ	FALSE	true negative		ἐπʼ	ἐπʼ	PUNCT		true negative
+Posthomerica	4053	1	428	Hippodamea	Trojan women	ὀλέθρῳ	ὄλεθρος	FALSE	true negative		ὀλέθρῳ	ὄλεθρος	NOUN	Dat	true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	πηῶν	παῦς	FALSE	true negative		πηῶν	πηή	NOUN	Gen	true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	γάρ	γάρ	FALSE	true negative		γάρ	γάρ	ADV		true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	τις	τὶς	FALSE	true negative		τις	τις	PRON	Nom	true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	ὀϊζυρῆς	ὀϊζυρός	FALSE	true negative		ὀϊζυρῆς	ὀϊζυρός	ADJ	Gen	true negative
+Posthomerica	4053	1	429	Hippodamea	Trojan women	κακότητος	κακότης	FALSE	true negative		κακότητος	κακότης	NOUN	Gen	true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	ἄμμορος	ἄμμορος	FALSE	true negative		ἄμμορος	ἄμμορος	ADJ	Nom	true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	ἐλπωρὴ	ἐλπωρά	FALSE	true negative		ἐλπωρὴ	ἐλπωρή	NOUN	Nom	true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	πέλει	πέλω	FALSE	true negative		πέλει	πέλω	VERB		true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	δούλιον	δούλιος	FALSE	true negative		δούλιον	δούλιος	ADJ	Nom	true negative
+Posthomerica	4053	1	430	Hippodamea	Trojan women	ἦμαρ	ἦμαρ	FALSE	true negative		ἦμαρ	ἦμαρ	NOUN	Nom	true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	εἰσιδέειν	εἰσοδίδωμι	FALSE	true negative		εἰσιδέειν	εἰσείδω	VERB		true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	τῷ	ὁ	FALSE	true negative		τῷ	ὁ	DET	Dat	true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	μή	μή	FALSE	true negative		μή	μή	ADV		true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	τις	τὶς	FALSE	true negative		τις	τις	ADJ	Nom	true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	ἔτʼ	ἔτʼ	FALSE	true negative		ἔτʼ	ἔτʼ	PUNCT		true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	ἀμβολίη	ἀμβολία	FALSE	true negative		ἀμβολίη	ἀμβολία	NOUN	Nom	true negative
+Posthomerica	4053	1	431	Hippodamea	Trojan women	πολέμοιο	πόλεμος	FALSE	true negative		πολέμοιο	πόλεμος	NOUN	Gen	true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	εἴη	εἰμί	FALSE	true negative		εἴη	εἰμί	AUX		true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	τειρομένῃσιν	τειρομέω	FALSE	true negative		τειρομένῃσιν	τειρομένῃσιν	VERB	Dat	true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	ἔοικε	ἔοικα	FALSE	true negative		ἔοικε	ἔοικα	VERB		true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	δαῒ	καός	FALSE	true negative		δαῒ	δάις	NOUN	Dat	true negative
+Posthomerica	4053	1	432	Hippodamea	Trojan women	μᾶλλον	μᾶλλον	FALSE	true negative		μᾶλλον	μᾶλλον	ADV		true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	τεθνάμεν	θνάσκω	FALSE	true negative		τεθνάμεν	θνήσκω	VERB		true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	ἢ	ἤ	FALSE	true negative		ἢ	ἤ	ADV		true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	μετόπισθεν	μετόπισθε	FALSE	true negative		μετόπισθεν	μετόπισθε	ADV		true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	ὑπʼ	ὑπʼ	FALSE	true negative		ὑπʼ	ὑπʼ	PUNCT		true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	ἀλλοδαποῖσιν	ἀλλοδαπός	FALSE	true negative		ἀλλοδαποῖσιν	ἀλλοδαποῖσιν	NOUN	Dat	true negative
+Posthomerica	4053	1	433	Hippodamea	Trojan women	ἄγεσθαι	ἄγω	FALSE	true negative		ἄγεσθαι	ἄγω	VERB		true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	νηπιάχοις	νηπιάχος	FALSE	true negative		νηπιάχοις	νηπίαχος	ADJ	Dat	true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	ἅμα	ἅμα	FALSE	true negative		ἅμα	ἅμα	ADP		true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	παισὶν	παῖς	FALSE	true negative		παισὶν	παῖς	NOUN	Dat	true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	ἀνιηρῇ	ἀνιηρός	FALSE	true negative		ἀνιηρῇ	ἀνιηρῇ	ADJ	Nom	true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	ὑπʼ	ὑπʼ	FALSE	true negative		ὑπʼ	ὑπʼ	PUNCT		true negative
+Posthomerica	4053	1	434	Hippodamea	Trojan women	ἀνάγκῃ	ἀνάγκη	FALSE	true negative		ἀνάγκῃ	ἀνάγκη	NOUN	Dat	true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	ἄστεος	ἄστυ	FALSE	true negative		ἄστεος	ἄστυ	NOUN	Gen	true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	αἰθομένοιο	αἱθέω	FALSE	true negative		αἰθομένοιο	αἴθω	VERB	Gen	true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	ἀνδρῶν	ἀνήρ	FALSE	true negative		ἀνδρῶν	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	οὐκέτʼ	οὐκέτʼ	FALSE	true negative		οὐκέτʼ	οὐκέτʼ	AUX	Gen	true negative
+Posthomerica	4053	1	435	Hippodamea	Trojan women	ἐόντων	εἰμί	FALSE	true negative		ἐόντων	εἰμί	AUX	Gen	true negative
+Posthomerica	4054	1	451	Theano	Trojan women	τίπτε	τίπτω	FALSE	true negative		τίπτε	τίπτε	PRON		true negative
+Posthomerica	4054	1	451	Theano	Trojan women	ποτὶ	πρός	FALSE	true negative		ποτὶ	πρός	ADP		true negative
+Posthomerica	4054	1	451	Theano	Trojan women	κλόνον	κλόνος	FALSE	true negative		κλόνον	κλόνος	NOUN	Acc	true negative
+Posthomerica	4054	1	451	Theano	Trojan women	αἰνὸν	αἰνός	FALSE	true negative		αἰνὸν	αἰνός	NOUN	Acc	true negative
+Posthomerica	4054	1	451	Theano	Trojan women	ἐελδόμεναι	ἐέλδω	FALSE	true negative		ἐελδόμεναι	ἔελδομαι	VERB	Nom	true negative
+Posthomerica	4054	1	451	Theano	Trojan women	πονέεσθαι	πονέω	FALSE	true negative		πονέεσθαι	πονέω	VERB		true negative
+Posthomerica	4054	1	452	Theano	Trojan women	σχέτλιαι	σχέτλιος	FALSE	false negative		σχέτλιαι	σχέτλιος	ADJ	Nom	false negative
+Posthomerica	4054	1	452	Theano	Trojan women	οὔτι	οὔτι	FALSE	true negative		οὔτι	οὔτι	ADV		true negative
+Posthomerica	4054	1	452	Theano	Trojan women	πάροιθε	πάρειμι	FALSE	true negative		πάροιθε	πάροιθε	ADV		true negative
+Posthomerica	4054	1	452	Theano	Trojan women	πονησάμεναι	πονέω	FALSE	true negative		πονησάμεναι	πονέω	VERB	Nom	true negative
+Posthomerica	4054	1	452	Theano	Trojan women	περὶ	περί	FALSE	true negative		περὶ	περί	ADP		true negative
+Posthomerica	4054	1	452	Theano	Trojan women	χάρμης	χάρμη	FALSE	true negative		χάρμης	χάρμη	NOUN	Gen	true negative
+Posthomerica	4054	1	453	Theano	Trojan women	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4054	1	453	Theano	Trojan women	ἄρα	ἆρα	FALSE	true negative		ἄρα	ἆρα	ADV		true negative
+Posthomerica	4054	1	453	Theano	Trojan women	νηίδες	ναῖς	FALSE	true negative		νηίδες	νηίς	NOUN	Nom	true negative
+Posthomerica	4054	1	453	Theano	Trojan women	ἔργον	ἔργον	FALSE	true negative		ἔργον	ἔργον	NOUN	Acc	true negative
+Posthomerica	4054	1	453	Theano	Trojan women	ἐπʼ	ἐπʼ	FALSE	true negative		ἐπʼ	ἐπʼ	PUNCT		true negative
+Posthomerica	4054	1	453	Theano	Trojan women	ἄτλητον	ἄτλητος	FALSE	true negative		ἄτλητον	ἄτλητος	ADJ	Acc	true negative
+Posthomerica	4054	1	453	Theano	Trojan women	μεμαυῖαι	μεμαυία	FALSE	true negative		μεμαυῖαι	μέμαα	VERB	Nom	true negative
+Posthomerica	4054	1	454	Theano	Trojan women	ὄρνυσθʼ	ὁράω	FALSE	true negative		ὄρνυσθʼ	ὄρνυσθʼ	PUNCT		true negative
+Posthomerica	4054	1	454	Theano	Trojan women	ἀφραδέως	ἀφραδέως	FALSE	true negative		ἀφραδέως	ἀφραδής	ADV		true negative
+Posthomerica	4054	1	454	Theano	Trojan women	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4054	1	454	Theano	Trojan women	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4054	1	454	Theano	Trojan women	σθένος	σθένος	FALSE	true negative		σθένος	σθένος	NOUN	Nom	true negative
+Posthomerica	4054	1	454	Theano	Trojan women	ἔσσεται	σσέω	FALSE	true negative		ἔσσεται	εἰμί	AUX		true negative
+Posthomerica	4054	1	454	Theano	Trojan women	ἶσον	ἶσος	FALSE	true negative		ἶσον	ἴσος	ADJ	Nom	true negative
+Posthomerica	4054	1	455	Theano	Trojan women	ἡμῖν	ἡμεῖς	FALSE	true negative		ἡμῖν	ἡμεῖς	PRON	Dat	true negative
+Posthomerica	4054	1	455	Theano	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4054	1	455	Theano	Trojan women	Δαναοῖσιν	Δαναοίσις	FALSE	true negative		Δαναοῖσιν	δαναοί	NOUN	Dat	true negative
+Posthomerica	4054	1	455	Theano	Trojan women	ἐπισταμένοισι	ἐπίσταμαι	FALSE	true negative		ἐπισταμένοισι	ἐπίσταμαι	VERB	Dat	true negative
+Posthomerica	4054	1	455	Theano	Trojan women	μάχεσθαι	μάχομαι	FALSE	true negative		μάχεσθαι	μάχομαι	VERB		true negative
+Posthomerica	4054	1	456	Theano	Trojan women	αὐτὰρ	αὐτάρ	FALSE	true negative		αὐτὰρ	ἀτάρ	CCONJ		true negative
+Posthomerica	4054	1	456	Theano	Trojan women	Ἀμαζόσι	Ἀμαζός	FALSE	true negative		Ἀμαζόσι	Ἀμαζόσς	ADJ	Nom	true negative
+Posthomerica	4054	1	456	Theano	Trojan women	δῆρις	δῆρις	FALSE	true negative		δῆρις	δῆρις	NOUN	Nom	true negative
+Posthomerica	4054	1	456	Theano	Trojan women	ἀμείλιχος	ἀμείλιχος	FALSE	true negative		ἀμείλιχος	ἀμείλιχος	ADJ	Nom	true negative
+Posthomerica	4054	1	456	Theano	Trojan women	ἱππασίαι	ἱππασία	FALSE	true negative		ἱππασίαι	ἱππασία	NOUN	Nom	true negative
+Posthomerica	4054	1	456	Theano	Trojan women	τε	τε	FALSE	true negative		τε	τε	CCONJ		true negative
+Posthomerica	4054	1	457	Theano	Trojan women	εὔαδον	ὁράω	FALSE	true negative		εὔαδον	εὔαδος	ADJ	Acc	true negative
+Posthomerica	4054	1	457	Theano	Trojan women	ἐξ	ἐκ	FALSE	true negative		ἐξ	ἐκ	ADP		true negative
+Posthomerica	4054	1	457	Theano	Trojan women	ἀρχῆς	ἀρχή	FALSE	true negative		ἀρχῆς	ἀρχή	NOUN	Gen	true negative
+Posthomerica	4054	1	457	Theano	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4054	1	457	Theano	Trojan women	ὅσʼ	ὅσος	FALSE	true negative		ὅσʼ	ὅσʼ	PUNCT		true negative
+Posthomerica	4054	1	457	Theano	Trojan women	ἀνέρες	ἀνήρ	FALSE	true negative		ἀνέρες	ἀνήρ	NOUN	Nom	true negative
+Posthomerica	4054	1	457	Theano	Trojan women	ἔργα	ἔργον	FALSE	true negative		ἔργα	ἔργον	NOUN	Nom	true negative
+Posthomerica	4054	1	457	Theano	Trojan women	μέλονται	μέλω	FALSE	true negative		μέλονται	μέλω	VERB		true negative
+Posthomerica	4054	1	458	Theano	Trojan women	τοὔνεκʼ	τοὔνεκʼ	FALSE	true negative		τοὔνεκʼ	τοὔνεκʼ	PUNCT		true negative
+Posthomerica	4054	1	458	Theano	Trojan women	ἄρα	ἆρα	FALSE	true negative		ἄρα	ἄρα	PART		true negative
+Posthomerica	4054	1	458	Theano	Trojan women	σφίσι	σφεῖς	FALSE	true negative		σφίσι	σφεῖς	PRON	Dat	true negative
+Posthomerica	4054	1	458	Theano	Trojan women	θυμὸς	θυμός	FALSE	true negative		θυμὸς	θυμός	NOUN	Nom	true negative
+Posthomerica	4054	1	458	Theano	Trojan women	ἀρήιος	Ἄρειος	FALSE	true negative		ἀρήιος	ἄρειος	ADJ	Nom	true negative
+Posthomerica	4054	1	458	Theano	Trojan women	αἰὲν	ἀείν	FALSE	true negative		αἰὲν	ἀεί	ADV		true negative
+Posthomerica	4054	1	458	Theano	Trojan women	ὄρωρεν	ὁράω	FALSE	true negative		ὄρωρεν	ὄρνυμι	VERB		true negative
+Posthomerica	4054	1	459	Theano	Trojan women	οὐδʼ	οὐδʼ	FALSE	true negative		οὐδʼ	οὐδʼ	PUNCT		true negative
+Posthomerica	4054	1	459	Theano	Trojan women	ἀνδρῶν	ἀνήρ	FALSE	true negative		ἀνδρῶν	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4054	1	459	Theano	Trojan women	δεύονται	δεύνω	FALSE	true negative		δεύονται	δεύω	VERB		true negative
+Posthomerica	4054	1	459	Theano	Trojan women	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	SCONJ		true negative
+Posthomerica	4054	1	459	Theano	Trojan women	πόνος	πόνος	FALSE	true negative		πόνος	πόνος	NOUN	Nom	true negative
+Posthomerica	4054	1	459	Theano	Trojan women	ἐς	εἰς	FALSE	true negative		ἐς	εἰς	ADP		true negative
+Posthomerica	4054	1	459	Theano	Trojan women	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4054	1	459	Theano	Trojan women	κάρτος	κάρτος	FALSE	true negative		κάρτος	κάρτος	NOUN	Acc	true negative
+Posthomerica	4054	1	460	Theano	Trojan women	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4054	1	460	Theano	Trojan women	ἀνηέξησε	ἀναιξέω	FALSE	true negative		ἀνηέξησε	ἀνηέξησε	VERB		true negative
+Posthomerica	4054	1	460	Theano	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4054	1	460	Theano	Trojan women	ἄτρομα	ἄτρομα	FALSE	true negative		ἄτρομα	ἄτρομος	ADJ	Acc	true negative
+Posthomerica	4054	1	460	Theano	Trojan women	γούνατʼ	γόνυ	FALSE	true negative		γούνατʼ	γούνατʼ	PUNCT		true negative
+Posthomerica	4054	1	460	Theano	Trojan women	ἔθηκε	τίθημι	FALSE	true negative		ἔθηκε	τίθημι	VERB		true negative
+Posthomerica	4054	1	461	Theano	Trojan women	τὴν	ὁ	FALSE	true negative		τὴν	ὁ	DET	Acc	true negative
+Posthomerica	4054	1	461	Theano	Trojan women	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4054	1	461	Theano	Trojan women	φάτις	φάτις	FALSE	true negative		φάτις	φάτις	NOUN	Nom	true negative
+Posthomerica	4054	1	461	Theano	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4054	1	461	Theano	Trojan women	Ἄρηος	Ἄρης	FALSE	true negative		Ἄρηος	ἄρης	NOUN	Gen	true negative
+Posthomerica	4054	1	461	Theano	Trojan women	ἔμεν	εἰμί	FALSE	true negative		ἔμεν	εἰμί	AUX		true negative
+Posthomerica	4054	1	461	Theano	Trojan women	κρατεροῖο	κρατερόω	FALSE	true negative		κρατεροῖο	κρατερός	ADJ	Gen	true negative
+Posthomerica	4054	1	461	Theano	Trojan women	θύγατρα	θύγατρον	FALSE	true negative		θύγατρα	θυγάτηρ	NOUN	Nom	true negative
+Posthomerica	4054	1	462	Theano	Trojan women	τῷ	ὁ	FALSE	true negative		τῷ	ὁ	PRON	Dat	true negative
+Posthomerica	4054	1	462	Theano	Trojan women	οἱ	οὗ	FALSE	true negative		οἱ	οὗ	PRON	Dat	true negative
+Posthomerica	4054	1	462	Theano	Trojan women	θηλυτέρην	θηλύς	FALSE	true negative		θηλυτέρην	θηλυτέρην	ADJ	Acc	true negative
+Posthomerica	4054	1	462	Theano	Trojan women	τινʼ	τὶς	FALSE	true negative		τινʼ	τινʼ	ADJ	Acc	true negative
+Posthomerica	4054	1	462	Theano	Trojan women	ἐριζέμεν	ἐρίζω	FALSE	true negative		ἐριζέμεν	ἐρίζω	VERB		true negative
+Posthomerica	4054	1	462	Theano	Trojan women	οὔτι	οὔτι	FALSE	true negative		οὔτι	οὔτι	ADV		true negative
+Posthomerica	4054	1	462	Theano	Trojan women	ἔοικεν	ἔοικα	FALSE	true negative		ἔοικεν	ἔοικα	VERB		true negative
+Posthomerica	4054	1	463	Theano	Trojan women	ἠὲ	ἐγώ	FALSE	true negative		ἠὲ	ἤ	CCONJ		true negative
+Posthomerica	4054	1	463	Theano	Trojan women	τάχʼ	τάχʼ	FALSE	true negative		τάχʼ	τάχʼ	ADJ	Gen	true negative
+Posthomerica	4054	1	463	Theano	Trojan women	ἀθανάτων	ἀθάνατος	FALSE	true negative		ἀθανάτων	ἀθάνατος	ADJ	Gen	true negative
+Posthomerica	4054	1	463	Theano	Trojan women	τις	τὶς	FALSE	true negative		τις	τις	PRON	Nom	true negative
+Posthomerica	4054	1	463	Theano	Trojan women	ἐπήλυθεν	ἐπαλύω	FALSE	true negative		ἐπήλυθεν	ἐπέρχομαι	VERB		true negative
+Posthomerica	4054	1	463	Theano	Trojan women	εὐχομένοισιν	εὔχομαι	FALSE	true negative		εὐχομένοισιν	εὐχομένοισιν	VERB	Dat	true negative
+Posthomerica	4054	1	464	Theano	Trojan women	πᾶσι	πᾶς	FALSE	true negative		πᾶσι	πᾶς	ADJ	Dat	true negative
+Posthomerica	4054	1	464	Theano	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ἄρʼ	ἀρή	FALSE	true negative		ἄρʼ	ἄρʼ	PUNCT		true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ἀνθρώποισιν	ἄνθρωπος	FALSE	true negative		ἀνθρώποισιν	ἄνθρωπος	NOUN	Dat	true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ὁμὸν	ὁμόω	FALSE	true negative		ὁμὸν	ὁμός	ADJ	Acc	true negative
+Posthomerica	4054	1	464	Theano	Trojan women	γένος	γένος	FALSE	true negative		γένος	γένος	NOUN	Acc	true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ἐπὶ	ἐπί	FALSE	true negative		ἐπὶ	ἐπί	ADP		true negative
+Posthomerica	4054	1	464	Theano	Trojan women	ἔργα	ἔργον	FALSE	true negative		ἔργα	ἔργον	NOUN	Acc	true negative
+Posthomerica	4054	1	465	Theano	Trojan women	στρωφῶντʼ	στρωφάω	FALSE	true negative		στρωφῶντʼ	στρωφῶντʼ	PUNCT		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	ἄλλος	ἄλλος	FALSE	true negative		ἄλλος	ἄλλος	ADJ	Nom	true negative
+Posthomerica	4054	1	465	Theano	Trojan women	ἐπʼ	ἐπʼ	FALSE	true negative		ἐπʼ	ἐπʼ	PUNCT		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	ἄλλα	ἄλλος	FALSE	true negative		ἄλλα	ἀλλά	CCONJ		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	πέλει	πέλω	FALSE	true negative		πέλει	πέλω	VERB		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	ἄρα	ἆρα	FALSE	true negative		ἄρα	ἆρα	ADV		true negative
+Posthomerica	4054	1	465	Theano	Trojan women	κεῖνο	ἐκεῖνος	FALSE	true negative		κεῖνο	κεῖνος	ADJ	Nom	true negative
+Posthomerica	4054	1	465	Theano	Trojan women	φέριστον	φέριστος	FALSE	true negative		φέριστον	φέριστος	ADJ	Nom	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	ἔργον	ἔργον	FALSE	true negative		ἔργον	ἔργον	NOUN	Nom	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	ὅ	ὅς	FALSE	true negative		ὅ	ὅς	PRON	Nom	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	τι	τὶς	FALSE	true negative		τι	τὶς	DET	Nom	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	φρεσὶν	φρήν	FALSE	true negative		φρεσὶν	φρήν	NOUN	Dat	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	ᾖσιν	εἷς	FALSE	true negative		ᾖσιν	εἰμί	ADJ	Dat	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	ἐπιστάμενος	ἐπίσταμαι	FALSE	true negative		ἐπιστάμενος	ἐπίσταμαι	VERB	Nom	true negative
+Posthomerica	4054	1	466	Theano	Trojan women	πονέηται	πονέω	FALSE	true negative		πονέηται	πονέω	VERB		true negative
+Posthomerica	4054	1	467	Theano	Trojan women	τοὔνεκα	τοὔνεκα	FALSE	true negative		τοὔνεκα	τοὔνεκα	ADV		true negative
+Posthomerica	4054	1	467	Theano	Trojan women	δηιοτῆτος	δηιοτήτης	FALSE	true negative		δηιοτῆτος	δηιοτής	NOUN	Gen	true negative
+Posthomerica	4054	1	467	Theano	Trojan women	ἀποσχόμεναι	ἀπόσχω	FALSE	true negative		ἀποσχόμεναι	ἀποσχόμεναι	VERB	Nom	true negative
+Posthomerica	4054	1	467	Theano	Trojan women	κελαδεινῆς	κελαδεινός	FALSE	true negative		κελαδεινῆς	κελαδεινός	ADJ	Gen	true negative
+Posthomerica	4054	1	468	Theano	Trojan women	ἱστὸν	ἱστός	FALSE	true negative		ἱστὸν	ἱστός	NOUN	Acc	true negative
+Posthomerica	4054	1	468	Theano	Trojan women	ἐπεντύνεσθε	ἐπιντύνω	FALSE	true negative		ἐπεντύνεσθε	ἐπεντύνω	VERB		true negative
+Posthomerica	4054	1	468	Theano	Trojan women	φίλων	φίλος	FALSE	true negative		φίλων	φίλος	ADJ	Gen	true negative
+Posthomerica	4054	1	468	Theano	Trojan women	ἔντοσθε	ἔνχομαι	FALSE	true negative		ἔντοσθε	ἔντοσθε	ADP		true negative
+Posthomerica	4054	1	468	Theano	Trojan women	μελάθρων	μέλαθρον	FALSE	true negative		μελάθρων	μέλαθρον	NOUN	Gen	true negative
+Posthomerica	4054	1	469	Theano	Trojan women	ἁνδράσι	ἁνδρός	FALSE	true negative		ἁνδράσι	ἁνήρ	NOUN	Dat	true negative
+Posthomerica	4054	1	469	Theano	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4054	1	469	Theano	Trojan women	ἡμετέροισι	ἡμέτερος	FALSE	true negative		ἡμετέροισι	ἡμέτερος	ADJ	Dat	true negative
+Posthomerica	4054	1	469	Theano	Trojan women	περὶ	περί	FALSE	true negative		περὶ	περί	ADP		true negative
+Posthomerica	4054	1	469	Theano	Trojan women	πτολέμοιο	πτόλεμος	FALSE	true negative		πτολέμοιο	πόλεμος	NOUN	Gen	true negative
+Posthomerica	4054	1	469	Theano	Trojan women	μελήσει	μέλω	FALSE	true negative		μελήσει	μέλω	VERB		true negative
+Posthomerica	4054	1	470	Theano	Trojan women	ἐλπωρὴ	ἐλπωρά	FALSE	true negative		ἐλπωρὴ	ἐλπωρή	NOUN	Nom	true negative
+Posthomerica	4054	1	470	Theano	Trojan women	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4054	1	470	Theano	Trojan women	ἀγαθοῖο	ἄγαθος	FALSE	true negative		ἀγαθοῖο	ἀγαθός	ADJ	Gen	true negative
+Posthomerica	4054	1	470	Theano	Trojan women	τάχʼ	τάχʼ	FALSE	true negative		τάχʼ	τάχʼ	PUNCT		true negative
+Posthomerica	4054	1	470	Theano	Trojan women	ἔσσεται	σσέω	FALSE	true negative		ἔσσεται	εἰμί	AUX		true negative
+Posthomerica	4054	1	470	Theano	Trojan women	οὕνεκʼ	ὅσνιξ	FALSE	true negative		οὕνεκʼ	οὕνεκʼ	PUNCT		true negative
+Posthomerica	4054	1	470	Theano	Trojan women	Ἀχαιοὺς	Ἀχαιός	FALSE	true negative		Ἀχαιοὺς	ἀχαιός	ADJ	Acc	true negative
+Posthomerica	4054	1	471	Theano	Trojan women	δερκόμεθʼ	δέρω	FALSE	true negative		δερκόμεθʼ	δερκόμεθʼ	PUNCT		true negative
+Posthomerica	4054	1	471	Theano	Trojan women	ὀλλυμένους	ὀλλύω	FALSE	true negative		ὀλλυμένους	ὀλλάυ	VERB	Acc	true negative
+Posthomerica	4054	1	471	Theano	Trojan women	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Nom	true negative
+Posthomerica	4054	1	471	Theano	Trojan women	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4054	1	471	Theano	Trojan women	κράτος	κράτος	FALSE	true negative		κράτος	κράτος	NOUN	Nom	true negative
+Posthomerica	4054	1	471	Theano	Trojan women	ὄρνυται	ὁράω	FALSE	true negative		ὄρνυται	ὄρνυμι	VERB		true negative
+Posthomerica	4054	1	471	Theano	Trojan women	ἀνδρῶν	ἀνήρ	FALSE	true negative		ἀνδρῶν	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4054	1	472	Theano	Trojan women	ἡμετέρων	ἡμέτερος	FALSE	true negative		ἡμετέρων	ἡμέτερος	ADJ	Gen	true negative
+Posthomerica	4054	1	472	Theano	Trojan women	οὐδʼ	οὐδʼ	FALSE	true negative		οὐδʼ	οὐδʼ	PUNCT		true negative
+Posthomerica	4054	1	472	Theano	Trojan women	ἔστι	εἰμί	FALSE	true negative		ἔστι	εἰμί	AUX		true negative
+Posthomerica	4054	1	472	Theano	Trojan women	κακοῦ	κακός	FALSE	true negative		κακοῦ	κακός	ADJ	Gen	true negative
+Posthomerica	4054	1	472	Theano	Trojan women	δέος	δέος	FALSE	true negative		δέος	δέος	NOUN	Nom	true negative
+Posthomerica	4054	1	472	Theano	Trojan women	οὔτι	οὔτι	FALSE	true negative		οὔτι	οὔτι	ADV		true negative
+Posthomerica	4054	1	472	Theano	Trojan women	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4054	1	472	Theano	Trojan women	ἄστυ	ἄστυ	FALSE	true negative		ἄστυ	ἄστυ	NOUN	Acc	true negative
+Posthomerica	4054	1	473	Theano	Trojan women	δήιοι	δεῖος	FALSE	true negative		δήιοι	δήιοι	ADJ	Nom	true negative
+Posthomerica	4054	1	473	Theano	Trojan women	ἀμφὶς	ἀμφίς	FALSE	true negative		ἀμφὶς	ἀμφίς	ADV		true negative
+Posthomerica	4054	1	473	Theano	Trojan women	ἔχουσιν	ἔχω	FALSE	true negative		ἔχουσιν	ἔχω	VERB		true negative
+Posthomerica	4054	1	473	Theano	Trojan women	ἀνηλέες	ἀνηλής	FALSE	true negative		ἀνηλέες	ἀνηλής	ADJ	Nom	true negative
+Posthomerica	4054	1	473	Theano	Trojan women	οὔτʼ	οὔτʼ	FALSE	true negative		οὔτʼ	οὔτʼ	PUNCT		true negative
+Posthomerica	4054	1	473	Theano	Trojan women	ἀλεγεινὴ	ἀλεγεινός	FALSE	true negative		ἀλεγεινὴ	ἀλεγεινός	ADJ	Dat	true negative
+Posthomerica	4054	1	474	Theano	Trojan women	γίνετʼ	γίγνομαι	FALSE	true negative		γίνετʼ	γίνετʼ	PUNCT		true negative
+Posthomerica	4054	1	474	Theano	Trojan women	ἀναγκαίη	ἀνάγκη	FALSE	true negative		ἀναγκαίη	ἀνάγκη	NOUN	Dat	true negative
+Posthomerica	4054	1	474	Theano	Trojan women	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4054	1	474	Theano	Trojan women	θηλυτέρῃσι	θηλύς	FALSE	true negative		θηλυτέρῃσι	θηλότερυς	ADJ	Dat	true negative
+Posthomerica	4054	1	474	Theano	Trojan women	μάχεσθαι	μάχομαι	FALSE	true negative		μάχεσθαι	μάχομαι	VERB		true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	Ἀχιλεῦ	Ἀχιλεύς	TRUE	true positive		Ἀχιλεῦ	ἀχιλλεύς	NOUN	Voc	true positive
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	περὶ	περί	FALSE	true negative		περὶ	περί	ADP		true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	δή	δή	FALSE	true negative		δή	δή	PART		true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	ἀπείριτος	ἀπείριτος	FALSE	true negative		ἀπείριτος	ἀπείριτος	ADJ	Nom	true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	ἤλυθεν	μαύνω	FALSE	true negative		ἤλυθεν	ἔρχομαι	VERB		true negative
+Posthomerica	4055	1	497	Aias (son of Telamon)	Achilles	αὐδὴ	αὐδή	FALSE	true negative		αὐδὴ	αὐδή	NOUN	Dat	true negative
+Posthomerica	4055	1	498	Aias (son of Telamon)	Achilles	οὔασιν	οἷος	FALSE	true negative		οὔασιν	οὖς	NOUN	Dat	true negative
+Posthomerica	4055	1	498	Aias (son of Telamon)	Achilles	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4055	1	498	Aias (son of Telamon)	Achilles	πολέμοιο	πόλεμος	FALSE	true negative		πολέμοιο	πόλεμος	NOUN	Gen	true negative
+Posthomerica	4055	1	498	Aias (son of Telamon)	Achilles	συνεσταότος	συνίστημι	FALSE	true negative		συνεσταότος	συνίστημι	VERB	Gen	true negative
+Posthomerica	4055	1	498	Aias (son of Telamon)	Achilles	μεγάλοιο	μέγας	FALSE	true negative		μεγάλοιο	μέγας	ADJ	Gen	true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	ἴομεν	οἶδα	FALSE	true negative		ἴομεν	εἶμι	VERB		true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	μὴ	μή	FALSE	true negative		μὴ	μή	SCONJ		true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	Τρῶες	Τρα	FALSE	true negative		Τρῶες	τρώς	NOUN	Nom	true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	ὑποφθάμενοι	ὑπόπτω	FALSE	true negative		ὑποφθάμενοι	ὑποφθάμενοι	VERB	Nom	true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	παρὰ	παρά	FALSE	true negative		παρὰ	παρά	ADP		true negative
+Posthomerica	4055	1	499	Aias (son of Telamon)	Achilles	νηυσὶν	ναῦς	FALSE	true negative		νηυσὶν	ναῦς	NOUN	Dat	true negative
+Posthomerica	4055	1	500	Aias (son of Telamon)	Achilles	Ἀργείους	Ἀργεῖος	FALSE	true negative		Ἀργείους	ἀργεῖος	ADJ	Acc	true negative
+Posthomerica	4055	1	500	Aias (son of Telamon)	Achilles	ὀλέσωσι	ὀλέω	FALSE	true negative		ὀλέσωσι	ὀλέσω	VERB		true negative
+Posthomerica	4055	1	500	Aias (son of Telamon)	Achilles	καταφλέξωσι	καταφλέκω	FALSE	true negative		καταφλέξωσι	καταφλέχω	VERB		true negative
+Posthomerica	4055	1	500	Aias (son of Telamon)	Achilles	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4055	1	500	Aias (son of Telamon)	Achilles	νῆας	ναῦς	FALSE	true negative		νῆας	ναῦς	NOUN	Acc	true negative
+Posthomerica	4055	1	501	Aias (son of Telamon)	Achilles	νῶιν	νῷος	FALSE	true negative		νῶιν	νῶιν	PRON	Dat	true negative
+Posthomerica	4055	1	501	Aias (son of Telamon)	Achilles	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4055	1	501	Aias (son of Telamon)	Achilles	ἀμφοτέροισιν	ἀμφότερος	FALSE	true negative		ἀμφοτέροισιν	ἀμφότερος	ADJ	Dat	true negative
+Posthomerica	4055	1	501	Aias (son of Telamon)	Achilles	ἐλεγχείη	ἐλεγχεία	FALSE	true negative		ἐλεγχείη	ἐλεγχείη	NOUN	Nom	true negative
+Posthomerica	4055	1	501	Aias (son of Telamon)	Achilles	ἀλεγεινὴ	ἀλεγεινός	FALSE	true negative		ἀλεγεινὴ	ἀλεγεινός	ADJ	Nom	true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	ἔσσεται	σσέω	FALSE	true negative		ἔσσεται	εἰμί	AUX		true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	ἔοικε	ἔοικα	FALSE	true negative		ἔοικε	ἔοικα	VERB		true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	Διὸς	Ζεύς	FALSE	true negative		Διὸς	ζεύς	NOUN	Gen	true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	μεγάλοιο	μέγας	FALSE	true negative		μεγάλοιο	μέγας	ADJ	Gen	true negative
+Posthomerica	4055	1	502	Aias (son of Telamon)	Achilles	γεγῶτας	γεγῶτης	FALSE	true negative		γεγῶτας	γεγῶτας	VERB	Acc	true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	αἰσχύνειν	αἰσχύνω	FALSE	true negative		αἰσχύνειν	αἰσχύνω	VERB		true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	πατέρων	πατήρ	FALSE	true negative		πατέρων	πατήρ	NOUN	Gen	true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	ἱερὸν	ἱερόν	FALSE	true negative		ἱερὸν	ἱερός	ADJ	Acc	true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	γένος	γένος	FALSE	true negative		γένος	γένος	NOUN	Acc	true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	οἵ	ὅς	FALSE	true negative		οἵ	ὅς	PRON	Nom	true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	ῥα	ῥα	FALSE	true negative		ῥα	ἄρα	PART		true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4055	1	503	Aias (son of Telamon)	Achilles	αὐτοὶ	αὐτός	FALSE	true negative		αὐτοὶ	αὐτός	ADJ	Nom	true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	τὸ	ὁ	FALSE	true negative		τὸ	ὁ	DET	Acc	true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	πρὶν	πρίν	FALSE	true negative		πρὶν	πρίν	ADV		true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	ἅμʼ	ἅμʼ	FALSE	true negative		ἅμʼ	ἅμʼ	PUNCT		true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	Ἡρακλῆι	Ἡρακλῆι	FALSE	true negative		Ἡρακλῆι	Ἡρακλῆ	NOUN	Dat	true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	δαΐφρονι	δαΐφρον	FALSE	true negative		δαΐφρονι	δαίφρων	ADJ	Dat	true negative
+Posthomerica	4055	1	504	Aias (son of Telamon)	Achilles	Δαομέδοντος	Δαομέδων	FALSE	true negative		Δαομέδοντος	Δαομέδων	VERB	Gen	true negative
+Posthomerica	4055	1	505	Aias (son of Telamon)	Achilles	Τροίην	Τροία	FALSE	true negative		Τροίην	τροία	NOUN	Acc	true negative
+Posthomerica	4055	1	505	Aias (son of Telamon)	Achilles	ἀγλαὸν	ἀγλαός	FALSE	true negative		ἀγλαὸν	ἀγλαός	ADJ	Acc	true negative
+Posthomerica	4055	1	505	Aias (son of Telamon)	Achilles	ἄστυ	ἄστυ	FALSE	true negative		ἄστυ	ἄστυ	NOUN	Acc	true negative
+Posthomerica	4055	1	505	Aias (son of Telamon)	Achilles	διέπραθον	διαπράσσω	FALSE	true negative		διέπραθον	διέπραθον	VERB		true negative
+Posthomerica	4055	1	505	Aias (son of Telamon)	Achilles	ἐγχείῃσι	ἐγχεῖος	FALSE	true negative		ἐγχείῃσι	ἐγχείη	NOUN	Dat	true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	νῦν	νῦν	FALSE	true negative		νῦν	νῦν	ADV		true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	τελέεσθαι	τελέω	FALSE	true negative		τελέεσθαι	τελέω	VERB		true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	ὑφʼ	ὑφʼ	FALSE	true negative		ὑφʼ	ὑφʼ	PUNCT		true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	ἡμετέρῃσιν	ἡμέτερος	FALSE	true negative		ἡμετέρῃσιν	ἡμέτερος	ADJ	Dat	true negative
+Posthomerica	4055	1	506	Aias (son of Telamon)	Achilles	ὀΐω	ὀιω	FALSE	true negative		ὀΐω	οἴομαι	VERB		true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	χερσίν	χείρ	FALSE	true negative		χερσίν	χείρ	NOUN	Dat	true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	SCONJ		true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Nom	true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	κάρτος	κάρτος	FALSE	true negative		κάρτος	κάρτος	NOUN	Nom	true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	ἀέξεται	ἀείκω	FALSE	true negative		ἀέξεται	ἀέξω	VERB		true negative
+Posthomerica	4055	1	507	Aias (son of Telamon)	Achilles	ἀμφοτέροισιν	ἀμφότερος	FALSE	true negative		ἀμφοτέροισιν	ἀμφότερος	ADJ	Dat	true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	νῦν	νῦν	FALSE	true negative		νῦν	νῦν	ADV		true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	μὲν	μέν	FALSE	true negative		μὲν	μέν	ADV		true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	ἐμῆς	ἐμός	FALSE	true negative		ἐμῆς	ἐμός	ADJ	Gen	true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	ἀπὸ	ἀπό	FALSE	true negative		ἀπὸ	ἀπό	ADP		true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	χειρὸς	χείρ	FALSE	true negative		χειρὸς	χείρ	NOUN	Gen	true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	ἐτώσιον	τωσιόω	FALSE	true negative		ἐτώσιον	ἐτώσιος	ADJ	Acc	true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	ἔκθορεν	ἔκθορεν	FALSE	true negative		ἔκθορεν	ἔκθορεν	VERB		true negative
+Posthomerica	4056	1	553	Penthesilea	Achilles, Aias (son of Telamon)	ἔγχος	ἔγχος	FALSE	true negative		ἔγχος	ἔγχος	NOUN	Acc	true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	ὀΐω	ὀιω	FALSE	true negative		ὀΐω	οἴομαι	VERB		true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	τάχα	τάχα	FALSE	true negative		τάχα	τάχα	ADV		true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	τῷδε	ὅδε	FALSE	true negative		τῷδε	ὅδε	PRON	Dat	true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	μένος	μένος	FALSE	true negative		μένος	μένος	NOUN	Acc	true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4056	1	554	Penthesilea	Achilles, Aias (son of Telamon)	ὀλέσσειν	ὀλέσκω	FALSE	true negative		ὀλέσσειν	ὀλέσω	VERB		true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	ὑμέων	ὑμεῖς	FALSE	true negative		ὑμέων	ὑμεῖς	PRON	Gen	true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	ἀμφοτέρων	ἀμφότερος	FALSE	true negative		ἀμφοτέρων	ἀμφότερος	ADJ	Gen	true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	οἵ	ὅς	FALSE	true negative		οἵ	ὅς	PRON	Nom	true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	ἄλκιμοι	ἄλκιμος	FALSE	true negative		ἄλκιμοι	ἄλκιμος	ADJ	Nom	true negative
+Posthomerica	4056	1	555	Penthesilea	Achilles, Aias (son of Telamon)	εὐχετάασθε	εὐχετάζω	FALSE	true negative		εὐχετάασθε	εὐχετάαμαι	VERB		true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	ἔμμεναι	ἔμμεναι	FALSE	true negative		ἔμμεναι	εἰμί	AUX		true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	Δαναοῖσιν	Δαναοίσις	FALSE	true negative		Δαναοῖσιν	δαναοί	NOUN	Dat	true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	ἐλαφροτέρη	ἐλαφρός	FALSE	true negative		ἐλαφροτέρη	ἐλαφρότερος	ADJ	Nom	true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4056	1	556	Penthesilea	Achilles, Aias (son of Telamon)	μόθοιο	μόθος	FALSE	true negative		μόθοιο	μόθος	NOUN	Gen	true negative
+Posthomerica	4056	1	557	Penthesilea	Achilles, Aias (son of Telamon)	ἔσσεται	σσέω	FALSE	true negative		ἔσσεται	εἰμί	AUX		true negative
+Posthomerica	4056	1	557	Penthesilea	Achilles, Aias (son of Telamon)	ἱπποδάμοισι	ἱπποδάμα	FALSE	true negative		ἱπποδάμοισι	ἱππόδαμος	ADJ	Dat	true negative
+Posthomerica	4056	1	557	Penthesilea	Achilles, Aias (son of Telamon)	τότε	τότε	FALSE	true negative		τότε	τότε	ADV		true negative
+Posthomerica	4056	1	557	Penthesilea	Achilles, Aias (son of Telamon)	Τρώεσσιν	Τρώνσις	FALSE	true negative		Τρώεσσιν	τρώς	NOUN	Dat	true negative
+Posthomerica	4056	1	557	Penthesilea	Achilles, Aias (son of Telamon)	ὀϊζύς	ὀϊζύς	FALSE	true negative		ὀϊζύς	ὀϊζύς	NOUN	Acc	true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	ἀλλά	ἀλλά	FALSE	true negative		ἀλλά	ἀλλά	CCONJ		true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	ἆσσον	ἆσσον	FALSE	true negative		ἆσσον	ἆσσον	ADV		true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	ἵκεσθε	ἥκω	FALSE	true negative		ἵκεσθε	ἵκω	VERB		true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	κατὰ	κατά	FALSE	true negative		κατὰ	κατά	ADP		true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	κλόνον	κλόνος	FALSE	true negative		κλόνον	κλόνος	NOUN	Acc	true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	ὄφρʼ	ὄφρʼ	FALSE	true negative		ὄφρʼ	ὄφρʼ	PUNCT		true negative
+Posthomerica	4056	1	558	Penthesilea	Achilles, Aias (son of Telamon)	ἐσίδησθε	σιδάω	FALSE	true negative		ἐσίδησθε	ἐσίδομαι	VERB		true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	ὅσσον	ὅσος	FALSE	true negative		ὅσσον	ὅσος	ADJ	Nom	true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	Ἀμαζόσι	Ἀμαζός	FALSE	true negative		Ἀμαζόσι	Ἀμαζόσι	NOUN	Nom	true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	κάρτος	κάρτος	FALSE	true negative		κάρτος	κάρτος	NOUN	Nom	true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	στήθεσσιν	στῆθος	FALSE	true negative		στήθεσσιν	στῆθος	NOUN	Dat	true negative
+Posthomerica	4056	1	559	Penthesilea	Achilles, Aias (son of Telamon)	ὄρωρεν	ὁράω	FALSE	true negative		ὄρωρεν	ὄρνυμι	VERB		true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	γάρ	γάρ	FALSE	true negative		γάρ	γάρ	ADV		true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	μευ	ἐγώ	FALSE	true negative		μευ	ἐγώ	PRON	Gen	true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	γένος	γένος	FALSE	true negative		γένος	γένος	NOUN	Nom	true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	ἐστὶν	εἰμί	FALSE	true negative		ἐστὶν	εἰμί	AUX		true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	Ἀρήιον	Ἀρήιον	FALSE	true negative		Ἀρήιον	ἄρειος	ADJ	Nom	true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	οὐδέ	οὐδέ	FALSE	true negative		οὐδέ	οὐδέ	CCONJ		true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	με	ἐγώ	FALSE	true negative		με	ἐγώ	PRON	Acc	true negative
+Posthomerica	4056	1	560	Penthesilea	Achilles, Aias (son of Telamon)	θνητὸς	θνητός	FALSE	true negative		θνητὸς	θνητός	ADJ	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	γείνατʼ	γεῖν	FALSE	true negative		γείνατʼ	γείνατʼ	PUNCT		true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	ἀνήρ	ἀνήρ	FALSE	true negative		ἀνήρ	ἀνήρ	NOUN	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	DET	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	αὐτὸς	αὐτός	FALSE	true negative		αὐτὸς	αὐτός	DET	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	Ἄρης	Ἄρης	FALSE	true negative		Ἄρης	ἄρης	NOUN	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	ἀκόρητος	ἀκόρητος	FALSE	true negative		ἀκόρητος	ἀκόρητος	ADJ	Nom	true negative
+Posthomerica	4056	1	561	Penthesilea	Achilles, Aias (son of Telamon)	ὁμοκλῆς	ὁμοκλή	FALSE	true negative		ὁμοκλῆς	ὁμοκλῆς	NOUN	Nom	true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	τοὔνεκά	τοὔνεκος	FALSE	true negative		τοὔνεκά	τοὔνεκα	ADV		true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	μοι	ἐγώ	FALSE	true negative		μοι	ἐγώ	PRON	Dat	true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	μένος	μένος	FALSE	true negative		μένος	μένος	NOUN	Nom	true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	ἐστὶ	εἰμί	FALSE	true negative		ἐστὶ	εἰμί	AUX		true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	πολὺ	πολύς	FALSE	true negative		πολὺ	πολύς	ADJ	Nom	true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	προφερέστατον	πρόφερής	FALSE	true negative		προφερέστατον	προφερέσς	ADJ	Nom	true negative
+Posthomerica	4056	1	562	Penthesilea	Achilles, Aias (son of Telamon)	ἀνδρῶν	ἀνήρ	FALSE	true negative		ἀνδρῶν	ἀνήρ	NOUN	Gen	true negative
+Posthomerica	4057	1	575	Achilles	Penthesilea	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4057	1	575	Achilles	Penthesilea	γύναι	γυνή	TRUE	true positive		γύναι	γυνή	NOUN	Voc	true positive
+Posthomerica	4057	1	575	Achilles	Penthesilea	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4057	1	575	Achilles	Penthesilea	ἁλίοισιν	ἅλιος	FALSE	true negative		ἁλίοισιν	ἁλίοισιν	ADJ	Dat	true negative
+Posthomerica	4057	1	575	Achilles	Penthesilea	ἀγαλλομένη	ἀγάλλομαι	FALSE	true negative		ἀγαλλομένη	ἀγαλλομένη	VERB	Nom	true negative
+Posthomerica	4057	1	575	Achilles	Penthesilea	ἐπέεσσιν	ἐπιέρχομαι	FALSE	true negative		ἐπέεσσιν	ἔπος	NOUN	Dat	true negative
+Posthomerica	4057	1	576	Achilles	Penthesilea	ἡμέων	ἡμεῖς	FALSE	true negative		ἡμέων	ἡμεῖς	PRON	Gen	true negative
+Posthomerica	4057	1	576	Achilles	Penthesilea	ἤλυθες	ἐλύω	FALSE	true negative		ἤλυθες	ἔρχομαι	VERB		true negative
+Posthomerica	4057	1	576	Achilles	Penthesilea	ἄντα	ἄντα	FALSE	true negative		ἄντα	ἄντα	ADV		true negative
+Posthomerica	4057	1	576	Achilles	Penthesilea	λιλαιομένη	λιλαίνομαι	FALSE	true negative		λιλαιομένη	λιλαίομαι	VERB	Nom	true negative
+Posthomerica	4057	1	576	Achilles	Penthesilea	πολεμίζειν	πολεμίζω	FALSE	true negative		πολεμίζειν	πολεμίζω	VERB		true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	οἳ	ὁ	FALSE	true negative		οἳ	ὅς	PRON	Nom	true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	φέρτατοί	φέρτατος	FALSE	true negative		φέρτατοί	φέρτατοί	ADJ	Nom	true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	εἰμεν	εἰμί	FALSE	true negative		εἰμεν	εἰμί	AUX		true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	ἐπιχθονίων	ἐπιχθόνιος	FALSE	true negative		ἐπιχθονίων	ἐπιχθόνιος	ADJ	Gen	true negative
+Posthomerica	4057	1	577	Achilles	Penthesilea	ἡρώων	ἥρως	FALSE	true negative		ἡρώων	ἥρως	NOUN	Gen	true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	ἐκ	ἐκ	FALSE	true negative		ἐκ	ἐκ	ADP		true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	δὴ	δή	FALSE	true negative		δὴ	δή	PART		true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	Κρονίωνος	Κρονίων	FALSE	true negative		Κρονίωνος	κρονίων	PROPN	Gen	true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	ἐριγδούποιο	ἐριγδούπος	FALSE	true negative		ἐριγδούποιο	ἐρίγδουπος	ADJ	Gen	true negative
+Posthomerica	4057	1	578	Achilles	Penthesilea	γενέθλης	γενέθλη	FALSE	true negative		γενέθλης	γενέθλη	NOUN	Gen	true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	εὐχόμεθʼ	εὔχομαι	FALSE	true negative		εὐχόμεθʼ	εὐχόμεθʼ	VERB		true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	ἐκγεγάμεν	ἐκγέγω	FALSE	true negative		ἐκγεγάμεν	ἐκγίγνομαι	VERB		true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	τρομέεσκε	τρομέω	FALSE	true negative		τρομέεσκε	τρομέω	VERB		true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	θοὸς	θοῦς	FALSE	true negative		θοὸς	θοός	ADJ	Nom	true negative
+Posthomerica	4057	1	579	Achilles	Penthesilea	Ἕκτωρ	Ἕκτωρ	FALSE	true negative		Ἕκτωρ	ἕκτωρ	NOUN	Nom	true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	ἡμέας	ἡμεῖς	FALSE	true negative		ἡμέας	ἡμεῖς	PRON	Acc	true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	εἰ	εἰ	FALSE	true negative		εἰ	εἰ	SCONJ		true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	ἄπωθεν	ἄπωθεν	FALSE	true negative		ἄπωθεν	ἄπωθεν	ADV		true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	ἐσέδρακεν	εἰστρέχω	FALSE	true negative		ἐσέδρακεν	ἐσέδρω	VERB		true negative
+Posthomerica	4057	1	580	Achilles	Penthesilea	ἀΐσσοντας	ἀἰσέω	FALSE	true negative		ἀΐσσοντας	ἀΐσσω	VERB	Acc	true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	δῆριν	δῆρις	FALSE	true negative		δῆριν	δῆρις	NOUN	Acc	true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	ἐπὶ	ἐπί	FALSE	true negative		ἐπὶ	ἐπί	ADP		true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	στονόεσσαν	στονόεσσα	FALSE	true negative		στονόεσσαν	στονόεις	ADJ	Acc	true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	ἐμὴ	ἐμός	FALSE	true negative		ἐμὴ	ἐμός	ADJ	Nom	true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	δέ	δέ	FALSE	true negative		δέ	δέ	ADV		true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	μιν	μιν	FALSE	true negative		μιν	μιν	PRON	Acc	true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	ἔκτανεν	κτάνω	FALSE	true negative		ἔκτανεν	κτείνω	VERB		true negative
+Posthomerica	4057	1	581	Achilles	Penthesilea	αἰχμὴ	αἰχμή	FALSE	true negative		αἰχμὴ	αἰχμή	NOUN	Nom	true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	κρατερόν	κράτερος	FALSE	true negative		κρατερόν	κρατερός	ADJ	Acc	true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	περ	πέρ	FALSE	true negative		περ	πέρ	ADV		true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	ἐόντα	εἰμί	FALSE	true negative		ἐόντα	εἰμί	AUX	Acc	true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	σὺ	σύ	FALSE	true negative		σὺ	σύ	PRON	Nom	true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	φρεσὶ	φρής	FALSE	true negative		φρεσὶ	φρήν	NOUN	Dat	true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	πάγχυ	πάγχυ	FALSE	true negative		πάγχυ	πάγχυ	ADV		true negative
+Posthomerica	4057	1	582	Achilles	Penthesilea	μέμηνας	μαίνομαι	FALSE	true negative		μέμηνας	μέμηνας	VERB	Nom	true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	ἣ	ὁ	FALSE	true negative		ἣ	ὁ	CCONJ		true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	μέγʼ	μέγα	FALSE	true negative		μέγʼ	μέγʼ	VERB		true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	ἔτλης	τλάω	FALSE	true negative		ἔτλης	τλάω	VERB		true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	νῶιν	νῷος	FALSE	true negative		νῶιν	νῶιν	PRON	Dat	true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	ἐπηπείλησας	ἐπαπειλέω	FALSE	true negative		ἐπηπείλησας	ἐπηπείλησας	VERB		true negative
+Posthomerica	4057	1	583	Achilles	Penthesilea	ὄλεθρον	ὄλεθρος	FALSE	true negative		ὄλεθρον	ὄλεθρος	NOUN	Acc	true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	σήμερον	σήμερον	FALSE	true negative		σήμερον	σήμερον	ADV		true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	ἀλλὰ	ἀλλά	FALSE	true negative		ἀλλὰ	ἀλλά	CCONJ		true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	σοὶ	σύ	FALSE	true negative		σοὶ	σύ	PRON	Dat	true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	εἶθαρ	εἶθαρ	FALSE	true negative		εἶθαρ	εἶθαρ	ADV		true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	ἐλεύσεται	ἔρχομαι	FALSE	true negative		ἐλεύσεται	ἔρχομαι	VERB		true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	ὕστατον	ὕστερος	FALSE	true negative		ὕστατον	ὕστερος	ADJ	Acc	true negative
+Posthomerica	4057	1	584	Achilles	Penthesilea	ἦμαρ	ἦμαρ	FALSE	true negative		ἦμαρ	ἦμαρ	NOUN	Nom	true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	οὐδὲ	οὐδέ	FALSE	true negative		οὐδὲ	οὐδέ	ADV		true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	οὐδʼ	οὐδʼ	FALSE	true negative		οὐδʼ	οὐδʼ	PUNCT		true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	αὐτός	αὐτός	FALSE	true negative		αὐτός	αὐτός	DET	Nom	true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	σε	σύ	FALSE	true negative		σε	σύ	PRON	Acc	true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	πατὴρ	πατήρ	FALSE	true negative		πατὴρ	πατήρ	NOUN	Nom	true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	ἔτι	ἔτι	FALSE	true negative		ἔτι	ἔτι	ADV		true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	ῥύσεται	ἐρύω	FALSE	true negative		ῥύσεται	ἐρύω	VERB		true negative
+Posthomerica	4057	1	585	Achilles	Penthesilea	Ἄρης	Ἄρης	FALSE	true negative		Ἄρης	ἄρης	NOUN	Nom	true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	ἐξ	ἐκ	FALSE	true negative		ἐξ	ἐκ	ADP		true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	ἐμέθεν	μέθειμι	FALSE	true negative		ἐμέθεν	ἐγώ	PRON	Gen	true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	τίσεις	τίνω	FALSE	true negative		τίσεις	τίζω	VERB		true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	κακὸν	κακός	FALSE	true negative		κακὸν	κακός	ADJ	Acc	true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	μόρον	μόρος	FALSE	true negative		μόρον	μόρος	NOUN	Acc	true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	εὖτʼ	εὖτʼ	FALSE	true negative		εὖτʼ	εὖτʼ	PUNCT		true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4057	1	586	Achilles	Penthesilea	ὄρεσσι	ὄρος	FALSE	true negative		ὄρεσσι	ὄρος	NOUN	Dat	true negative
+Posthomerica	4057	1	587	Achilles	Penthesilea	κεμμὰς	κεμμή	FALSE	true negative		κεμμὰς	κεμμὰς	NOUN	Acc	true negative
+Posthomerica	4057	1	587	Achilles	Penthesilea	ὁμαρτήσασα	ὁμαρτάνω	FALSE	true negative		ὁμαρτήσασα	ὁμαρτέω	VERB	Nom	true negative
+Posthomerica	4057	1	587	Achilles	Penthesilea	βοοδμητῆρι	βοοδμήτης	FALSE	true negative		βοοδμητῆρι	βοοδμητῆρι	NOUN	Dat	true negative
+Posthomerica	4057	1	587	Achilles	Penthesilea	λέοντι	λέων	FALSE	true negative		λέοντι	λέων	NOUN	Dat	true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	ἣ	ὁ	FALSE	true negative		ἣ	ὁ	CCONJ		true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	οὔπω	οὔπω	FALSE	true negative		οὔπω	οὔπω	ADV		true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	τόδʼ	ὁ	FALSE	true negative		τόδʼ	τόδʼ	PUNCT		true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	ἄκουσας	ἀκούω	FALSE	true negative		ἄκουσας	ἄκουω	VERB	Nom	true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	ὅσων	ὅσος	FALSE	true negative		ὅσων	ὅσος	PRON	Gen	true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	ὑποκάππεσε	ὑποκαππέω	FALSE	true negative		ὑποκάππεσε	ὑποκάππεσε	VERB		true negative
+Posthomerica	4057	1	588	Achilles	Penthesilea	γυῖα	γυῖον	FALSE	true negative		γυῖα	γυῖον	NOUN	Nom	true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	Ξάνθου	Ξάνθος	FALSE	true negative		Ξάνθου	ξάνθος	NOUN	Gen	true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	πὰρ	πάρ	FALSE	true negative		πὰρ	παρά	ADP		true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	προχοῇσιν	προχοήσις	FALSE	true negative		προχοῇσιν	προχοῇς	NOUN	Dat	true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	ὑφʼ	ὑφʼ	FALSE	true negative		ὑφʼ	ὑφʼ	PUNCT		true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	ἡμετέρῃς	ἡμέτερος	FALSE	true negative		ἡμετέρῃς	ἡμέτερος	ADJ	Gen	true negative
+Posthomerica	4057	1	589	Achilles	Penthesilea	παλάμῃσιν	πάλαμα	FALSE	true negative		παλάμῃσιν	παλάμη	NOUN	Dat	true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	ἤ	ἤ	FALSE	true negative		ἤ	ἤ	CCONJ		true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	σευ	σύ	FALSE	true negative		σευ	σύ	PRON	Gen	true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	πευθομένης	πεύθω	FALSE	true negative		πευθομένης	πευθομένης	VERB	Gen	true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	μάκαρες	μάκαρος	FALSE	true negative		μάκαρες	μάκαρ	ADJ	Nom	true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	φρένας	φρήν	FALSE	true negative		φρένας	φρήν	NOUN	Acc	true negative
+Posthomerica	4057	1	590	Achilles	Penthesilea	ἐξείλοντο	ἐξαιρέω	FALSE	true negative		ἐξείλοντο	ἐξαιρέω	VERB		true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	νόον	νόος	FALSE	true negative		νόον	νόος	NOUN	Acc	true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	ὄφρα	ὄφρος	FALSE	true negative		ὄφρα	ὄφρα	SCONJ		true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	σε	σύ	FALSE	true negative		σε	σύ	PRON	Acc	true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	Κῆρες	Κήρ	FALSE	true negative		Κῆρες	κήρ	NOUN	Nom	true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	ἀμείλιχοι	ἀμείλιχος	FALSE	true negative		ἀμείλιχοι	ἀμείλιχος	ADJ	Nom	true negative
+Posthomerica	4057	1	591	Achilles	Penthesilea	ἀμφιχάνωσιν	ἀμφιχάνωσις	FALSE	true negative		ἀμφιχάνωσιν	ἀμφιχάνω	VERB		true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	κεῖσό	κεῖσό	FALSE	true negative		κεῖσό	κεῖμαι	VERB		true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	νυν	νυν	FALSE	true negative		νυν	νυν	ADV		true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	κονίῃσι	κονία	FALSE	true negative		κονίῃσι	κονία	NOUN	Dat	true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	κυνῶν	κύων	FALSE	true negative		κυνῶν	κύων	NOUN	Gen	true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	βόσις	βόσις	FALSE	true negative		βόσις	βόσις	NOUN	Nom	true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	ἠδʼ	ἠδʼ	FALSE	true negative		ἠδʼ	ἠδʼ	PUNCT		true negative
+Posthomerica	4058	1	644	Achilles	Penthesilea	οἰωνῶν	οἰωνός	FALSE	true negative		οἰωνῶν	οἰωνός	NOUN	Gen	true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	δειλαίη	δειλαῖος	FALSE	false negative		δειλαίη	δειλαῖος	ADJ	Nom	false negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	τίς	τίς	FALSE	true negative		τίς	τίς	PRON	Nom	true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	γάρ	γάρ	FALSE	true negative		γάρ	γάρ	PART		true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	σε	σύ	FALSE	true negative		σε	σύ	PRON	Acc	true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	παρήπαφεν	παραπάφτω	FALSE	true negative		παρήπαφεν	παραπαφίσκω	VERB		true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	ἀντίʼ	ἀντίʼ	FALSE	true negative		ἀντίʼ	ἀντίʼ	PUNCT		true negative
+Posthomerica	4058	1	645	Achilles	Penthesilea	ἐμεῖο	ἐγώ	FALSE	true negative		ἐμεῖο	ἐγώ	PRON	Gen	true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	ἐλθέμεν	ἔρχομαι	FALSE	true negative		ἐλθέμεν	ἔρχομαι	VERB		true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	ἦ	ἦ	FALSE	true negative		ἦ	ἤ	CCONJ		true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	που	πού	FALSE	true negative		που	πού	ADV		true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	ἔφησθα	φημί	FALSE	true negative		ἔφησθα	φημί	VERB		true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	μάχης	μάχη	FALSE	true negative		μάχης	μάχη	NOUN	Gen	true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	ἄπο	ἄπο	FALSE	true negative		ἄπο	ἀπό	ADP		true negative
+Posthomerica	4058	1	646	Achilles	Penthesilea	νοστήσασα	νοστέω	FALSE	true negative		νοστήσασα	νοστέω	VERB	Nom	true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	οἰσέμεν	οἰσέω	FALSE	true negative		οἰσέμεν	φέρω	VERB		true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	ἄσπετα	ἄσπε	FALSE	true negative		ἄσπετα	ἄσπετος	ADJ	Acc	true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	δῶρα	δῶρον	FALSE	true negative		δῶρα	δῶρον	NOUN	Acc	true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	παρά	παρά	FALSE	true negative		παρά	παρά	ADP		true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	Πριάμοιο	Πριάμοιον	FALSE	true negative		Πριάμοιο	πρίαμος	NOUN	Gen	true negative
+Posthomerica	4058	1	647	Achilles	Penthesilea	γέροντος	γέρων	FALSE	true negative		γέροντος	γέρων	NOUN	Gen	true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	κτείνασʼ	κτείνω	FALSE	true negative		κτείνασʼ	κτείνασʼ	PUNCT		true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	Ἀργείους	Ἀργεῖος	FALSE	true negative		Ἀργείους	ἀργεῖος	ADJ	Acc	true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	τόδε	ὅδε	FALSE	true negative		τόδε	ὅδε	DET	Acc	true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	σοίγε	σύγος	FALSE	true negative		σοίγε	σοίγε	PRON	Dat	true negative
+Posthomerica	4058	1	648	Achilles	Penthesilea	νόημα	νόημα	FALSE	true negative		νόημα	νόημα	NOUN	Acc	true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	ἀθάνατοι	ἀθάνατος	FALSE	true negative		ἀθάνατοι	ἀθάνατος	ADJ	Nom	true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	ἐτέλεσσαν	τελέω	FALSE	true negative		ἐτέλεσσαν	ἐτέλεσσαν	VERB		true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	CCONJ		true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Acc	true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	φέρτατοί	φέρτατος	FALSE	true negative		φέρτατοί	φέρτατοί	ADJ	Nom	true negative
+Posthomerica	4058	1	649	Achilles	Penthesilea	εἰμεν	εἰμί	FALSE	true negative		εἰμεν	εἰμί	AUX		true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	ἡρώων	ἥρως	FALSE	true negative		ἡρώων	ἥρως	NOUN	Gen	true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	Δαναοῖσι	Δαναός	FALSE	true negative		Δαναοῖσι	δαναοί	NOUN	Dat	true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	φάος	φάος	FALSE	true negative		φάος	φάος	NOUN	Nom	true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	μέγα	μέγας	FALSE	true negative		μέγα	μέγας	ADJ	Nom	true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	Τρωσὶ	Τρωΐ	FALSE	true negative		Τρωσὶ	τρώς	NOUN	Dat	true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	δὲ	δέ	FALSE	true negative		δὲ	δέ	ADV		true negative
+Posthomerica	4058	1	650	Achilles	Penthesilea	πῆμα	πῆμα	FALSE	true negative		πῆμα	πῆμα	NOUN	Nom	true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	ἠδὲ	ἤδε	FALSE	true negative		ἠδὲ	ἠδέ	CCONJ		true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	σοὶ	σύ	FALSE	true negative		σοὶ	σύ	PRON	Dat	true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	αἰνομόρῳ	αἰνομόρος	FALSE	true negative		αἰνομόρῳ	αἰνομόρῳ	ADJ	Dat	true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	ἐπειή	ἐπειή	FALSE	true negative		ἐπειή	ἐπειή	ADV		true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	σε	σύ	FALSE	true negative		σε	σύ	PRON	Acc	true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	Κῆρες	Κήρ	FALSE	true negative		Κῆρες	κήρ	NOUN	Nom	true negative
+Posthomerica	4058	1	651	Achilles	Penthesilea	ἐρεμναὶ	ἐερεμνή	FALSE	true negative		ἐρεμναὶ	ἐρεμναὶ	ADJ	Nom	true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	νόος	νόος	FALSE	true negative		νόος	νόος	NOUN	Nom	true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	ἐξορόθυνε	ἐξοροθύνω	FALSE	true negative		ἐξορόθυνε	ἐξορόθυνε	VERB		true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	γυναικῶν	γυνή	FALSE	true negative		γυναικῶν	γυνή	NOUN	Gen	true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	ἔργα	ἔργον	FALSE	true negative		ἔργα	ἔργον	NOUN	Acc	true negative
+Posthomerica	4058	1	652	Achilles	Penthesilea	λιποῦσαν	λιπόω	FALSE	true negative		λιποῦσαν	λιποῦσαν	VERB	Acc	true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	βήμεναι	βημέω	FALSE	true negative		βήμεναι	βήμεναι	VERB		true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	ἐς	εἰς	FALSE	true negative		ἐς	εἰς	ADP		true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	πόλεμον	πόλεμος	FALSE	true negative		πόλεμον	πόλεμος	NOUN	Acc	true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	τόν	ὁ	FALSE	true negative		τόν	ὁ	PRON	Acc	true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	περ	πέρ	FALSE	true negative		περ	πέρ	ADV		true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	τρομέουσι	τρομάω	FALSE	true negative		τρομέουσι	τρομέω	VERB		true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4058	1	653	Achilles	Penthesilea	ἄνδρες	ἀνήρ	FALSE	true negative		ἄνδρες	ἀνήρ	NOUN	Nom	true negative
+Posthomerica	4059	1	723	Thersites	Achilles	ὦ	ὦ	FALSE	true negative		ὦ	ὦ	INTJ		true negative
+Posthomerica	4059	1	723	Thersites	Achilles	Ἀχιλεῦ	Ἀχιλεύς	TRUE	true positive		Ἀχιλεῦ	ἀχιλλεύς	NOUN	Voc	true positive
+Posthomerica	4059	1	723	Thersites	Achilles	φρένας	φρήν	FALSE	true negative		φρένας	φρήν	NOUN	Acc	true negative
+Posthomerica	4059	1	723	Thersites	Achilles	αἰνέ	αἰνέω	FALSE	true negative		αἰνέ	αἰνές	VERB		true negative
+Posthomerica	4059	1	723	Thersites	Achilles	τίη	τία	FALSE	true negative		τίη	τίη	PRON		true negative
+Posthomerica	4059	1	723	Thersites	Achilles	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4059	1	723	Thersites	Achilles	σευ	σύ	FALSE	true negative		σευ	σύ	PRON	Gen	true negative
+Posthomerica	4059	1	723	Thersites	Achilles	ἤπαφε	ἀπάφω	FALSE	true negative		ἤπαφε	ἤπαφε	VERB		true negative
+Posthomerica	4059	1	723	Thersites	Achilles	δαίμων	δαίμων	FALSE	true negative		δαίμων	δαίμων	NOUN	Nom	true negative
+Posthomerica	4059	1	724	Thersites	Achilles	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4059	1	724	Thersites	Achilles	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4059	1	724	Thersites	Achilles	στέρνοισιν	στέρνον	FALSE	true negative		στέρνοισιν	στέρνοισιν	NOUN	Dat	true negative
+Posthomerica	4059	1	724	Thersites	Achilles	Ἀμαζόνος	Ἀμαζών	FALSE	true negative		Ἀμαζόνος	Ἀμαζών	NOUN	Gen	true negative
+Posthomerica	4059	1	724	Thersites	Achilles	εἵνεκα	ἕνεκα	FALSE	true negative		εἵνεκα	ἕνεκα	ADP		true negative
+Posthomerica	4059	1	724	Thersites	Achilles	λυγρῆς	λυγρή	FALSE	true negative		λυγρῆς	λυγρός	ADJ	Gen	true negative
+Posthomerica	4059	1	725	Thersites	Achilles	ἣ	ὁ	FALSE	true negative		ἣ	ὅς	PRON	Nom	true negative
+Posthomerica	4059	1	725	Thersites	Achilles	νῶιν	νῷος	FALSE	true negative		νῶιν	νῶιν	PRON	Dat	true negative
+Posthomerica	4059	1	725	Thersites	Achilles	κακὰ	κακός	FALSE	true negative		κακὰ	κακός	ADJ	Acc	true negative
+Posthomerica	4059	1	725	Thersites	Achilles	πολλὰ	πολύς	FALSE	true negative		πολλὰ	πολύς	ADJ	Acc	true negative
+Posthomerica	4059	1	725	Thersites	Achilles	λιλαίετο	λιλαίω	FALSE	true negative		λιλαίετο	λιλαίομαι	VERB		true negative
+Posthomerica	4059	1	725	Thersites	Achilles	μητίσασθαι	μητίζω	FALSE	true negative		μητίσασθαι	μητίομαι	VERB		true negative
+Posthomerica	4059	1	726	Thersites	Achilles	τῆς	ὁ	FALSE	true negative		τῆς	ὁ	PRON	Gen	true negative
+Posthomerica	4059	1	726	Thersites	Achilles	τοι	σύ	FALSE	true negative		τοι	σύ	PRON	Dat	true negative
+Posthomerica	4059	1	726	Thersites	Achilles	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4059	1	726	Thersites	Achilles	φρεσὶ	φρής	FALSE	true negative		φρεσὶ	φρήν	NOUN	Dat	true negative
+Posthomerica	4059	1	726	Thersites	Achilles	σῇσι	σός	FALSE	true negative		σῇσι	σός	ADJ	Dat	true negative
+Posthomerica	4059	1	726	Thersites	Achilles	γυναιμανές	γυναιμών	FALSE	true negative		γυναιμανές	γυναιμανές	NOUN	Voc	false positive
+Posthomerica	4059	1	726	Thersites	Achilles	ἦτορ	ὅστις	FALSE	true negative		ἦτορ	ἦτορ	NOUN	Nom	true negative
+Posthomerica	4059	1	726	Thersites	Achilles	ἔχουτι	ἔχω	FALSE	true negative		ἔχουτι	ἔχουτι	NOUN	Dat	true negative
+Posthomerica	4059	1	727	Thersites	Achilles	μέμβλεται	μβλλέω	FALSE	true negative		μέμβλεται	μέμβλω	VERB		true negative
+Posthomerica	4059	1	727	Thersites	Achilles	ὡς	ὡς	FALSE	true negative		ὡς	ὡς	ADV		true negative
+Posthomerica	4059	1	727	Thersites	Achilles	ἀλόχοιο	ἄλοχος	FALSE	true negative		ἀλόχοιο	ἄλοχος	NOUN	Gen	true negative
+Posthomerica	4059	1	727	Thersites	Achilles	πολύφρονος	πολύφρονος	FALSE	true negative		πολύφρονος	πολύφρων	ADJ	Gen	true negative
+Posthomerica	4059	1	727	Thersites	Achilles	ἥν	ὅς	FALSE	true negative		ἥν	ὅς	AUX		true negative
+Posthomerica	4059	1	727	Thersites	Achilles	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4059	1	727	Thersites	Achilles	ἐπὶ	ἐπί	FALSE	true negative		ἐπὶ	ἐπί	ADP		true negative
+Posthomerica	4059	1	727	Thersites	Achilles	ἕδνοις	ἕδνος	FALSE	true negative		ἕδνοις	ἕδνον	NOUN	Dat	true negative
+Posthomerica	4059	1	728	Thersites	Achilles	κουριδίην	κουρίδιος	FALSE	true negative		κουριδίην	κουρίδιος	ADJ	Acc	true negative
+Posthomerica	4059	1	728	Thersites	Achilles	μνήστευσας	μνηστεύω	FALSE	true negative		μνήστευσας	μνήστευω	VERB	Nom	true negative
+Posthomerica	4059	1	728	Thersites	Achilles	ἐελδόμενος	ἐέλδω	FALSE	true negative		ἐελδόμενος	ἐέλδομαι	VERB	Nom	true negative
+Posthomerica	4059	1	728	Thersites	Achilles	γαμέεσθαι	γαμέω	FALSE	true negative		γαμέεσθαι	γαμέω	VERB		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	ὥς	ὡς	FALSE	true negative		ὥς	ὡς	ADV		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	σʼ	σύ	FALSE	true negative		σʼ	σʼ	PUNCT		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	ὄφελον	ὄφελον	FALSE	true negative		ὄφελον	ὀφείλω	VERB		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	κατὰ	κατά	FALSE	true negative		κατὰ	κατά	ADP		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	δῆριν	δῆρις	FALSE	true negative		δῆριν	δῆρις	NOUN	Acc	true negative
+Posthomerica	4059	1	729	Thersites	Achilles	ὑποφθαμένη	ὑπόπτω	FALSE	true negative		ὑποφθαμένη	ὑποφέθομαι	VERB	Nom	true negative
+Posthomerica	4059	1	729	Thersites	Achilles	βάλε	βάλλω	FALSE	true negative		βάλε	βάλλω	VERB		true negative
+Posthomerica	4059	1	729	Thersites	Achilles	δουρί	δουρί	FALSE	true negative		δουρί	δόρυ	NOUN	Dat	true negative
+Posthomerica	4059	1	730	Thersites	Achilles	οὕνεκα	οὕνεκα	FALSE	true negative		οὕνεκα	οὕνεκα	SCONJ		true negative
+Posthomerica	4059	1	730	Thersites	Achilles	θηλυτέρῃσιν	θηλυτέρασιος	FALSE	true negative		θηλυτέρῃσιν	θηλότερυς	ADJ	Dat	true negative
+Posthomerica	4059	1	730	Thersites	Achilles	ἄδην	ἄδη	FALSE	true negative		ἄδην	ἄδην	ADV		true negative
+Posthomerica	4059	1	730	Thersites	Achilles	ἐπιτέρπεαι	ἐπιτερπέω	FALSE	true negative		ἐπιτέρπεαι	ἐπιτέρπω	VERB		true negative
+Posthomerica	4059	1	730	Thersites	Achilles	ἦτορ	ἀτόρ	FALSE	true negative		ἦτορ	ἦτορ	NOUN	Nom	true negative
+Posthomerica	4059	1	731	Thersites	Achilles	οὐδέ	οὐδέ	FALSE	true negative		οὐδέ	οὐδέ	CCONJ		true negative
+Posthomerica	4059	1	731	Thersites	Achilles	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4059	1	731	Thersites	Achilles	σοί	σύ	FALSE	true negative		σοί	σύ	PRON	Dat	true negative
+Posthomerica	4059	1	731	Thersites	Achilles	τι	τὶς	FALSE	true negative		τι	τις	PRON	Nom	true negative
+Posthomerica	4059	1	731	Thersites	Achilles	μέμηλεν	μαμβάνω	FALSE	true negative		μέμηλεν	μέλω	VERB		true negative
+Posthomerica	4059	1	731	Thersites	Achilles	ἐνὶ	εἷς	FALSE	true negative		ἐνὶ	ἐν	ADP		true negative
+Posthomerica	4059	1	731	Thersites	Achilles	φρεσὶν	φρήν	FALSE	true negative		φρεσὶν	φρήν	NOUN	Dat	true negative
+Posthomerica	4059	1	731	Thersites	Achilles	οὐλομένῃσιν	οὐλομέω	FALSE	true negative		οὐλομένῃσιν	οὐλομένῃσιν	ADJ	Dat	true negative
+Posthomerica	4059	1	732	Thersites	Achilles	ἀμθʼ	ἀμθʼ	FALSE	true negative		ἀμθʼ	ἀμθʼ	PUNCT		true negative
+Posthomerica	4059	1	732	Thersites	Achilles	ἀρετῆς	ἀρετή	FALSE	true negative		ἀρετῆς	ἀρετή	NOUN	Gen	true negative
+Posthomerica	4059	1	732	Thersites	Achilles	κλυτὸν	κλυτός	FALSE	true negative		κλυτὸν	κλυτός	ADJ	Acc	true negative
+Posthomerica	4059	1	732	Thersites	Achilles	ἔργου	ἔργον	FALSE	true negative		ἔργου	ἔργον	NOUN	Gen	true negative
+Posthomerica	4059	1	732	Thersites	Achilles	ἐπὴν	ἐπήν	FALSE	true negative		ἐπὴν	ἐπήν	SCONJ		true negative
+Posthomerica	4059	1	732	Thersites	Achilles	ἐσίδησθα	σιδάω	FALSE	true negative		ἐσίδησθα	ἐσίδησθα	VERB		true negative
+Posthomerica	4059	1	732	Thersites	Achilles	γυναῖκα	γυνή	FALSE	true negative		γυναῖκα	γυνή	NOUN	Acc	true negative
+Posthomerica	4059	1	733	Thersites	Achilles	σχέτλιε	σχέτλιος	TRUE	true positive		σχέτλιε	σχέτλιος	ADJ	Voc	true positive
+Posthomerica	4059	1	733	Thersites	Achilles	ποῦ	ποῦ	FALSE	true negative		ποῦ	ποῦ	ADV		true negative
+Posthomerica	4059	1	733	Thersites	Achilles	νύ	νύ	FALSE	true negative		νύ	νῦν	ADV		true negative
+Posthomerica	4059	1	733	Thersites	Achilles	τοί	σύ	FALSE	true negative		τοί	σύ	PRON	Dat	true negative
+Posthomerica	4059	1	733	Thersites	Achilles	ἐστιν	εἰμί	FALSE	true negative		ἐστιν	εἰμί	AUX		true negative
+Posthomerica	4059	1	733	Thersites	Achilles	ἐῢ	ἐῢ	FALSE	true negative		ἐῢ	εὖ	ADV		true negative
+Posthomerica	4059	1	733	Thersites	Achilles	σθένος	σθένος	FALSE	true negative		σθένος	σθένος	NOUN	Nom	true negative
+Posthomerica	4059	1	733	Thersites	Achilles	ἠδὲ	ὅσδις	FALSE	true negative		ἠδὲ	ἠδέ	CCONJ		true negative
+Posthomerica	4059	1	733	Thersites	Achilles	νόημα	νόημα	FALSE	true negative		νόημα	νόημα	NOUN	Nom	true negative
+Posthomerica	4059	1	734	Thersites	Achilles	πῇ	πᾶ	FALSE	true negative		πῇ	πῆ	PRON		true negative
+Posthomerica	4059	1	734	Thersites	Achilles	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4059	1	734	Thersites	Achilles	βίη	βία	FALSE	true negative		βίη	βία	NOUN	Nom	true negative
+Posthomerica	4059	1	734	Thersites	Achilles	βασιλῆος	βασιλή	FALSE	true negative		βασιλῆος	βασιλεύς	NOUN	Gen	true negative
+Posthomerica	4059	1	734	Thersites	Achilles	ἀμύμονος	ἀμύμωνος	FALSE	true negative		ἀμύμονος	ἀμύμων	ADJ	Gen	true negative
+Posthomerica	4059	1	734	Thersites	Achilles	οὐδέ	οὐδέ	FALSE	true negative		οὐδέ	οὐδέ	CCONJ		true negative
+Posthomerica	4059	1	734	Thersites	Achilles	τι	τὶς	FALSE	true negative		τι	τις	PRON	Acc	true negative
+Posthomerica	4059	1	734	Thersites	Achilles	οἶαθα	οἷος	FALSE	true negative		οἶαθα	οἶαθα	VERB		true negative
+Posthomerica	4059	1	735	Thersites	Achilles	ὅσσον	ὅσος	FALSE	true negative		ὅσσον	ὅσος	ADJ	Nom	true negative
+Posthomerica	4059	1	735	Thersites	Achilles	ἄχος	ἄχος	FALSE	true negative		ἄχος	ἄχος	NOUN	Nom	true negative
+Posthomerica	4059	1	735	Thersites	Achilles	Τρώεσσι	Τρώς	FALSE	true negative		Τρώεσσι	τρώς	NOUN	Dat	true negative
+Posthomerica	4059	1	735	Thersites	Achilles	γυναιμανέουσι	γυναιμανέω	FALSE	true negative		γυναιμανέουσι	γυναιμανέων	NOUN	Dat	true negative
+Posthomerica	4059	1	735	Thersites	Achilles	τέτυκται	τύω	FALSE	true negative		τέτυκται	τεύχω	VERB		true negative
+Posthomerica	4059	1	736	Thersites	Achilles	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4059	1	736	Thersites	Achilles	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4059	1	736	Thersites	Achilles	τερπωλῆς	τερπωλός	FALSE	true negative		τερπωλῆς	τερπωλῆς	NOUN	Nom	true negative
+Posthomerica	4059	1	736	Thersites	Achilles	ὀλοώτερον	ὀλοῦτερος	FALSE	true negative		ὀλοώτερον	ὀλοώς	ADJ	Acc	true negative
+Posthomerica	4059	1	736	Thersites	Achilles	ἄλλο	ἄλλος	FALSE	true negative		ἄλλο	ἄλλος	DET	Acc	true negative
+Posthomerica	4059	1	736	Thersites	Achilles	βροτοῖσιν	βροτοίς	FALSE	true negative		βροτοῖσιν	βροτός	NOUN	Dat	true negative
+Posthomerica	4059	1	737	Thersites	Achilles	ἐς	εἰς	FALSE	true negative		ἐς	εἰς	ADP		true negative
+Posthomerica	4059	1	737	Thersites	Achilles	λέχος	λέχος	FALSE	true negative		λέχος	λέχος	NOUN	Acc	true negative
+Posthomerica	4059	1	737	Thersites	Achilles	ἱεμένης	οἶμα	FALSE	true negative		ἱεμένης	ἱεμένης	VERB	Gen	true negative
+Posthomerica	4059	1	737	Thersites	Achilles	ἥ	ὁ	FALSE	true negative		ἥ	ὅς	CCONJ		true negative
+Posthomerica	4059	1	737	Thersites	Achilles	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4059	1	737	Thersites	Achilles	ἄφρονα	ἄφρων	FALSE	true negative		ἄφρονα	ἄφρων	ADJ	Acc	true negative
+Posthomerica	4059	1	737	Thersites	Achilles	φῶτα	φῶς	FALSE	true negative		φῶτα	φώς	NOUN	Acc	true negative
+Posthomerica	4059	1	737	Thersites	Achilles	τίθησι	τίθημι	FALSE	true negative		τίθησι	τίθημι	VERB		true negative
+Posthomerica	4059	1	738	Thersites	Achilles	καὶ	καί	FALSE	true negative		καὶ	καί	ADV		true negative
+Posthomerica	4059	1	738	Thersites	Achilles	πινυτόν	πίνυτος	FALSE	true negative		πινυτόν	πινυτος	ADJ	Acc	true negative
+Posthomerica	4059	1	738	Thersites	Achilles	περ	πέρ	FALSE	true negative		περ	πέρ	PART		true negative
+Posthomerica	4059	1	738	Thersites	Achilles	ἐόντα	εἰμί	FALSE	true negative		ἐόντα	εἰμί	AUX	Acc	true negative
+Posthomerica	4059	1	738	Thersites	Achilles	πόνῳ	πόνος	FALSE	true negative		πόνῳ	πόνος	NOUN	Dat	true negative
+Posthomerica	4059	1	738	Thersites	Achilles	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4059	1	738	Thersites	Achilles	ἄρα	ἆρα	FALSE	true negative		ἄρα	ἄρα	PART		true negative
+Posthomerica	4059	1	738	Thersites	Achilles	κῦδος	κῦδος	FALSE	true negative		κῦδος	κῦδος	NOUN	Acc	true negative
+Posthomerica	4059	1	738	Thersites	Achilles	ὀπηδεῖ	ὀπαδάω	FALSE	true negative		ὀπηδεῖ	ὀπαδέω	VERB		true negative
+Posthomerica	4059	1	739	Thersites	Achilles	ἀνδρὶ	ἀνήρ	FALSE	true negative		ἀνδρὶ	ἀνήρ	NOUN	Dat	true negative
+Posthomerica	4059	1	739	Thersites	Achilles	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4059	1	739	Thersites	Achilles	αἰχμητῇ	αἰχμητής	FALSE	true negative		αἰχμητῇ	αἰχμητής	NOUN	Dat	true negative
+Posthomerica	4059	1	739	Thersites	Achilles	νίκης	νίκη	FALSE	true negative		νίκης	νίκη	NOUN	Gen	true negative
+Posthomerica	4059	1	739	Thersites	Achilles	κλέος	κλέος	FALSE	true negative		κλέος	κλέος	NOUN	Nom	true negative
+Posthomerica	4059	1	739	Thersites	Achilles	ἔργα	ἔργον	FALSE	true negative		ἔργα	ἔργον	NOUN	Nom	true negative
+Posthomerica	4059	1	739	Thersites	Achilles	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4059	1	739	Thersites	Achilles	Ἄρηος	Ἄρης	FALSE	true negative		Ἄρηος	ἄρης	NOUN	Gen	true negative
+Posthomerica	4059	1	740	Thersites	Achilles	τερπνά	τερπνάω	FALSE	true negative		τερπνά	τερπνός	ADJ	Acc	true negative
+Posthomerica	4059	1	740	Thersites	Achilles	φυγοπτολέμῳ	φυγοπτόλεμος	FALSE	true negative		φυγοπτολέμῳ	φυγοπτολέμῳ	ADJ	Dat	true negative
+Posthomerica	4059	1	740	Thersites	Achilles	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4059	1	740	Thersites	Achilles	γυναικῶν	γυνή	FALSE	true negative		γυναικῶν	γυνή	NOUN	Gen	true negative
+Posthomerica	4059	1	740	Thersites	Achilles	εὔαδεν	ὁράω	FALSE	true negative		εὔαδεν	ἁνδάνω	VERB		true negative
+Posthomerica	4059	1	740	Thersites	Achilles	εὐνή	εὐνή	FALSE	true negative		εὐνή	εὐνή	NOUN	Nom	true negative
+Posthomerica	4060	1	751	someone	Thersites	οὐκ	οὐ	FALSE	true negative		οὐκ	οὐ	ADV		true negative
+Posthomerica	4060	1	751	someone	Thersites	ἀγαθὸν	ἀγαθός	FALSE	true negative		ἀγαθὸν	ἀγαθός	ADJ	Nom	true negative
+Posthomerica	4060	1	751	someone	Thersites	βασιλῆας	βασιλεύς	FALSE	true negative		βασιλῆας	βασιλεύς	NOUN	Acc	true negative
+Posthomerica	4060	1	751	someone	Thersites	ὑβριζέμεν	ὑβρίζω	FALSE	true negative		ὑβριζέμεν	ὑβρίζω	VERB		true negative
+Posthomerica	4060	1	751	someone	Thersites	ἀνδρὶ	ἀνήρ	FALSE	true negative		ἀνδρὶ	ἀνήρ	NOUN	Dat	true negative
+Posthomerica	4060	1	751	someone	Thersites	χέρηι	χέρας	FALSE	true negative		χέρηι	χέρηι	NOUN	Dat	true negative
+Posthomerica	4060	1	752	someone	Thersites	ἀμφαδὸν	ἀμφαδός	FALSE	true negative		ἀμφαδὸν	ἀμφαδὸν	ADV		true negative
+Posthomerica	4060	1	752	someone	Thersites	οὔτε	οὔτε	FALSE	true negative		οὔτε	οὔτε	CCONJ		true negative
+Posthomerica	4060	1	752	someone	Thersites	κρυφηδόν	κρυφηδός	FALSE	true negative		κρυφηδόν	κρυφηδόν	ADV		true negative
+Posthomerica	4060	1	752	someone	Thersites	ἐπεὶ	ἐπεί	FALSE	true negative		ἐπεὶ	ἐπεί	SCONJ		true negative
+Posthomerica	4060	1	752	someone	Thersites	χόλος	χόλος	FALSE	true negative		χόλος	χόλος	NOUN	Nom	true negative
+Posthomerica	4060	1	752	someone	Thersites	αἰνὸς	αἰνός	FALSE	true negative		αἰνὸς	αἰνός	ADJ	Nom	true negative
+Posthomerica	4060	1	752	someone	Thersites	ὀπηδεῖ	ὀπαδάω	FALSE	true negative		ὀπηδεῖ	ὀπαδέω	VERB		true negative
+Posthomerica	4060	1	753	someone	Thersites	ἔστι	εἰμί	FALSE	true negative		ἔστι	εἰμί	AUX		true negative
+Posthomerica	4060	1	753	someone	Thersites	Θέμις	Θέμις	FALSE	true negative		Θέμις	θέμις	NOUN	Nom	true negative
+Posthomerica	4060	1	753	someone	Thersites	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4060	1	753	someone	Thersites	γλῶσσαν	γλῶσσα	FALSE	true negative		γλῶσσαν	γλῶσσα	NOUN	Acc	true negative
+Posthomerica	4060	1	753	someone	Thersites	ἀναιδέα	ἀναιδής	FALSE	true negative		ἀναιδέα	ἀναιδής	ADJ	Acc	true negative
+Posthomerica	4060	1	753	someone	Thersites	τίνυται	τίνυμαι	FALSE	true negative		τίνυται	τίνυμαι	VERB		true negative
+Posthomerica	4060	1	753	someone	Thersites	Ἄτη	ὕτος	FALSE	true negative		Ἄτη	ἄτη	NOUN	Dat	true negative
+Posthomerica	4060	1	754	someone	Thersites	ἥ	ὁ	FALSE	true negative		ἥ	ὅς	PRON	Nom	true negative
+Posthomerica	4060	1	754	someone	Thersites	τʼ	τʼ	FALSE	true negative		τʼ	τʼ	PUNCT		true negative
+Posthomerica	4060	1	754	someone	Thersites	αἰεὶ	ἀεί	FALSE	true negative		αἰεὶ	ἀεί	ADV		true negative
+Posthomerica	4060	1	754	someone	Thersites	μερόπεσσιν	μέροπεσσις	FALSE	true negative		μερόπεσσιν	μερόπεσσιν	NOUN	Dat	true negative
+Posthomerica	4060	1	754	someone	Thersites	ἐπʼ	ἐπʼ	FALSE	true negative		ἐπʼ	ἐπʼ	PUNCT		true negative
+Posthomerica	4060	1	754	someone	Thersites	ἄλγεσιν	ἄλγεσις	FALSE	true negative		ἄλγεσιν	ἄλγος	NOUN	Dat	true negative
+Posthomerica	4060	1	754	someone	Thersites	ἄλγος	ἄλγος	FALSE	true negative		ἄλγος	ἄλγος	NOUN	Nom	true negative
+Posthomerica	4060	1	754	someone	Thersites	ἀέξει	ἀείκω	FALSE	true negative		ἀέξει	ἀέξω	VERB		true negative
+Posthomerica	4061	1	757	Achilles	Thersites	κεῖσό	κεῖσό	FALSE	true negative		κεῖσό	κεῖμαι	VERB		true negative
+Posthomerica	4061	1	757	Achilles	Thersites	νυν	νυν	FALSE	true negative		νυν	νυν	ADV		true negative
+Posthomerica	4061	1	757	Achilles	Thersites	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4061	1	757	Achilles	Thersites	κονίῃσι	κονία	FALSE	true negative		κονίῃσι	κονία	NOUN	Dat	true negative
+Posthomerica	4061	1	757	Achilles	Thersites	λελασμένος	λανέω	FALSE	true negative		λελασμένος	λανθάνω	VERB	Nom	true negative
+Posthomerica	4061	1	757	Achilles	Thersites	ἀφροσυνάων	ἀφροσύναι	FALSE	true negative		ἀφροσυνάων	ἀφροσυνά	NOUN	Gen	true negative
+Posthomerica	4061	1	758	Achilles	Thersites	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4061	1	758	Achilles	Thersites	γὰρ	γάρ	FALSE	true negative		γὰρ	γάρ	ADV		true negative
+Posthomerica	4061	1	758	Achilles	Thersites	ἀμείνονι	ἀγαθός	FALSE	true negative		ἀμείνονι	ἀμείνων	ADJ	Dat	true negative
+Posthomerica	4061	1	758	Achilles	Thersites	φωτὶ	φῶς	FALSE	true negative		φωτὶ	φώς	NOUN	Dat	true negative
+Posthomerica	4061	1	758	Achilles	Thersites	χρεών	χρεών	FALSE	true negative		χρεών	χρεών	X		true negative
+Posthomerica	4061	1	758	Achilles	Thersites	κακὸν	κακός	FALSE	true negative		κακὸν	κακός	ADJ	Acc	true negative
+Posthomerica	4061	1	758	Achilles	Thersites	ἀντίʼ	ἀντίημι	FALSE	true negative		ἀντίʼ	ἀντίʼ	ADJ	Acc	true negative
+Posthomerica	4061	1	758	Achilles	Thersites	ἐρίζειν	ἐρίζω	FALSE	true negative		ἐρίζειν	ἐρίζω	VERB		true negative
+Posthomerica	4061	1	759	Achilles	Thersites	ὣ	ἤ	FALSE	true negative		ὣ	ὅς	PRON	Dat	true negative
+Posthomerica	4061	1	759	Achilles	Thersites	καί	καί	FALSE	true negative		καί	καί	ADV		true negative
+Posthomerica	4061	1	759	Achilles	Thersites	που	πού	FALSE	true negative		που	πού	ADV		true negative
+Posthomerica	4061	1	759	Achilles	Thersites	τὸ	ὁ	FALSE	true negative		τὸ	ὁ	DET	Acc	true negative
+Posthomerica	4061	1	759	Achilles	Thersites	πάροιθεν	πάρειμι	FALSE	true negative		πάροιθεν	πάροιθε	ADP		true negative
+Posthomerica	4061	1	759	Achilles	Thersites	Ὀδυσσῆος	Ὀδυσσῆος	FALSE	true negative		Ὀδυσσῆος	ὀδυσσεύς	NOUN	Gen	true negative
+Posthomerica	4061	1	759	Achilles	Thersites	ταλαὸν	ταλαός	FALSE	true negative		ταλαὸν	ταλαός	ADJ	Acc	true negative
+Posthomerica	4061	1	759	Achilles	Thersites	κῆρ	πῆρ	FALSE	true negative		κῆρ	κῆρ	NOUN	Acc	true negative
+Posthomerica	4061	1	760	Achilles	Thersites	ἀργαλέως	ἀργαλέως	FALSE	true negative		ἀργαλέως	ἀργαλέως	ADV		true negative
+Posthomerica	4061	1	760	Achilles	Thersites	ὤρινας	ὀρίνω	FALSE	true negative		ὤρινας	ὤρινω	VERB		true negative
+Posthomerica	4061	1	760	Achilles	Thersites	ἐλέγχεα	ἐλέγχης	FALSE	true negative		ἐλέγχεα	ἐλέγχης	NOUN	Acc	true negative
+Posthomerica	4061	1	760	Achilles	Thersites	μυρία	μυρίος	FALSE	true negative		μυρία	μυρίος	ADJ	Acc	true negative
+Posthomerica	4061	1	760	Achilles	Thersites	βάζων	βάζλω	FALSE	true negative		βάζων	βάζω	VERB	Nom	true negative
+Posthomerica	4061	1	761	Achilles	Thersites	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4061	1	761	Achilles	Thersites	οὐ	οὐ	FALSE	true negative		οὐ	οὐ	ADV		true negative
+Posthomerica	4061	1	761	Achilles	Thersites	Πηλείδης	Πηλείδης	FALSE	true negative		Πηλείδης	Πηλείδης	PROPN	Nom	true negative
+Posthomerica	4061	1	761	Achilles	Thersites	τοι	σύ	FALSE	true negative		τοι	σύ	PRON	Dat	true negative
+Posthomerica	4061	1	761	Achilles	Thersites	ὁμοίιος	ὁμοίιος	FALSE	true negative		ὁμοίιος	ὁμοίιος	ADJ	Nom	true negative
+Posthomerica	4061	1	761	Achilles	Thersites	ἐξεφαάνθην	ἐκφαίνω	FALSE	true negative		ἐξεφαάνθην	ἐξεφαάνθην	VERB		true negative
+Posthomerica	4061	1	762	Achilles	Thersites	ὅς	ὅς	FALSE	true negative		ὅς	ὅς	PRON	Nom	true negative
+Posthomerica	4061	1	762	Achilles	Thersites	σευ	σύ	FALSE	true negative		σευ	σύ	PRON	Gen	true negative
+Posthomerica	4061	1	762	Achilles	Thersites	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4061	1	762	Achilles	Thersites	ἔλυσα	λύω	FALSE	true negative		ἔλυσα	λύω	VERB		true negative
+Posthomerica	4061	1	762	Achilles	Thersites	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4061	1	762	Achilles	Thersites	οὐκέτι	οὐκέτι	FALSE	true negative		οὐκέτι	οὐκέτι	ADV		true negative
+Posthomerica	4061	1	762	Achilles	Thersites	χειρὶ	χείρ	FALSE	true negative		χειρὶ	χείρ	NOUN	Dat	true negative
+Posthomerica	4061	1	762	Achilles	Thersites	βαρείῃ	βαρεία	FALSE	true negative		βαρείῃ	βαρύς	ADJ	Dat	true negative
+Posthomerica	4061	1	763	Achilles	Thersites	πληξάμενος	πλήκω	FALSE	true negative		πληξάμενος	πλήσσω	VERB	Nom	true negative
+Posthomerica	4061	1	763	Achilles	Thersites	σὲ	σύ	FALSE	true negative		σὲ	σύ	PRON	Acc	true negative
+Posthomerica	4061	1	763	Achilles	Thersites	δὲ	δέ	FALSE	true negative		δὲ	δέ	PART		true negative
+Posthomerica	4061	1	763	Achilles	Thersites	πότμος	πότμος	FALSE	true negative		πότμος	πότμος	NOUN	Nom	true negative
+Posthomerica	4061	1	763	Achilles	Thersites	ἀμείλιχος	ἀμείλιχος	FALSE	true negative		ἀμείλιχος	ἀμείλιχος	ADJ	Nom	true negative
+Posthomerica	4061	1	763	Achilles	Thersites	ἀμφεκάλυψεν	ἀμφεκαλύπτω	FALSE	true negative		ἀμφεκάλυψεν	ἀμφικαλύπτω	VERB		true negative
+Posthomerica	4061	1	764	Achilles	Thersites	σῇ	σός	FALSE	true negative		σῇ	σός	ADJ	Dat	true negative
+Posthomerica	4061	1	764	Achilles	Thersites	δʼ	δʼ	FALSE	true negative		δʼ	δʼ	PUNCT		true negative
+Posthomerica	4061	1	764	Achilles	Thersites	ὀλιγοδρανίῃ	ὀλιγοδρανία	FALSE	true negative		ὀλιγοδρανίῃ	ὀλιγοδρανία	NOUN	Dat	true negative
+Posthomerica	4061	1	764	Achilles	Thersites	θυμὸν	θυμός	FALSE	true negative		θυμὸν	θυμός	NOUN	Acc	true negative
+Posthomerica	4061	1	764	Achilles	Thersites	λίπες	λίπ	FALSE	true negative		λίπες	λείπω	VERB		true negative
+Posthomerica	4061	1	764	Achilles	Thersites	ἀλλʼ	ἀλλʼ	FALSE	true negative		ἀλλʼ	ἀλλʼ	PUNCT		true negative
+Posthomerica	4061	1	764	Achilles	Thersites	ἀπʼ	ἀπʼ	FALSE	true negative		ἀπʼ	ἀπʼ	PUNCT		true negative
+Posthomerica	4061	1	764	Achilles	Thersites	Ἀχαιῶν	Ἀχαιός	FALSE	true negative		Ἀχαιῶν	ἀχαιός	ADJ	Gen	true negative
+Posthomerica	4061	1	765	Achilles	Thersites	ἔρρε	ῥέω	FALSE	true negative		ἔρρε	ἔρρω	VERB		true negative
+Posthomerica	4061	1	765	Achilles	Thersites	καὶ	καί	FALSE	true negative		καὶ	καί	CCONJ		true negative
+Posthomerica	4061	1	765	Achilles	Thersites	ἐν	ἐν	FALSE	true negative		ἐν	ἐν	ADP		true negative
+Posthomerica	4061	1	765	Achilles	Thersites	φθιμένοισιν	φθίω	FALSE	true negative		φθιμένοισιν	φθίνω	VERB	Dat	true negative
+Posthomerica	4061	1	765	Achilles	Thersites	ἐπεσβολίας	ἐπεσβολία	FALSE	true negative		ἐπεσβολίας	ἐπεσβολίη	NOUN	Acc	true negative
+Posthomerica	4061	1	765	Achilles	Thersites	ἀγόρευε	ἀγορεύω	FALSE	true negative		ἀγόρευε	ἀγορεύω	VERB		true negative
